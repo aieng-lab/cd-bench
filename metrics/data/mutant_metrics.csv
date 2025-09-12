@@ -1,0 +1,355 @@
+class_alias,attacker,defender,score,mut_forfeit,mut_equivalent,mut_survived_turn,mut_survived_game
+ByteVector,4.1,4.1,0.55,0.19999999999999996,0.0,0.25,0.55
+ByteVector,4.1,4.1 mini,0.45,0.15000000000000002,0.0,0.5,0.45
+ByteVector,4.1,flash,0.0,1.0,,0.0,0.0
+ByteVector,4.1,haiku,0.05,0.8,0.0,0.15,0.05
+ByteVector,4.1,pro,0.0,1.0,,0.0,0.0
+ByteVector,4.1,sonnet,0.1,0.9,0.0,0.0,0.1
+ByteVector,4.1 mini,4.1,0.4,0.5,0.0,0.25,0.4
+ByteVector,4.1 mini,4.1 mini,0.2,0.30000000000000004,0.0,0.5,0.2
+ByteVector,4.1 mini,flash,0.0,1.0,,0.0,0.0
+ByteVector,4.1 mini,haiku,0.25,0.30000000000000004,0.0,0.65,0.25
+ByteVector,4.1 mini,pro,0.0,1.0,,0.0,0.0
+ByteVector,4.1 mini,sonnet,0.25,0.050000000000000044,0.0,0.75,0.25
+ByteVector,flash,4.1,0.0,1.0,,0.0,0.0
+ByteVector,flash,4.1 mini,0.0,1.0,,0.0,0.0
+ByteVector,flash,flash,0.0,1.0,,0.0,0.0
+ByteVector,flash,haiku,0.0,1.0,,0.0,0.0
+ByteVector,flash,pro,0.0,1.0,,0.0,0.0
+ByteVector,flash,sonnet,0.0,1.0,,0.0,0.0
+ByteVector,haiku,4.1,0.2,0.30000000000000004,0.0,0.5,0.2
+ByteVector,haiku,4.1 mini,0.2,0.19999999999999996,0.0,0.6,0.2
+ByteVector,haiku,flash,0.05,0.95,0.0,0.0,0.05
+ByteVector,haiku,haiku,0.2,0.25,0.0,0.6,0.2
+ByteVector,haiku,pro,0.0,1.0,,0.0,0.0
+ByteVector,haiku,sonnet,0.35,0.050000000000000044,0.0,0.65,0.35
+ByteVector,pro,4.1,0.0,1.0,,0.0,0.0
+ByteVector,pro,4.1 mini,0.0,1.0,,0.0,0.0
+ByteVector,pro,flash,0.0,1.0,,0.0,0.0
+ByteVector,pro,haiku,0.0,1.0,,0.0,0.0
+ByteVector,pro,pro,0.0,1.0,,0.0,0.0
+ByteVector,pro,sonnet,0.0,1.0,,0.0,0.0
+ByteVector,sonnet,4.1,0.05,0.4,0.0,0.55,0.05
+ByteVector,sonnet,4.1 mini,0.1,0.5,0.0,0.4,0.1
+ByteVector,sonnet,flash,0.0,1.0,,0.0,0.0
+ByteVector,sonnet,haiku,0.0,0.65,0.0,0.35,0.0
+ByteVector,sonnet,pro,0.0,1.0,,0.0,0.0
+ByteVector,sonnet,sonnet,0.0,0.7,0.0,0.3,0.0
+CaseInsensitiveString,4.1,4.1,0.15,0.19999999999999996,0.0,0.65,0.15
+CaseInsensitiveString,4.1,4.1 mini,0.25,0.09999999999999998,0.0,0.7,0.25
+CaseInsensitiveString,4.1,flash,0.55,0.30000000000000004,0.0,0.3,0.55
+CaseInsensitiveString,4.1,haiku,0.05,0.050000000000000044,0.0,0.9,0.05
+CaseInsensitiveString,4.1,pro,0.75,0.050000000000000044,0.0,0.5,0.75
+CaseInsensitiveString,4.1,sonnet,0.1,0.0,0.0,0.9,0.1
+CaseInsensitiveString,4.1 mini,4.1,0.05,0.65,0.0,0.3,0.05
+CaseInsensitiveString,4.1 mini,4.1 mini,0.2,0.35,0.0,0.5,0.2
+CaseInsensitiveString,4.1 mini,flash,0.25,0.65,0.0,0.1,0.25
+CaseInsensitiveString,4.1 mini,haiku,0.3,0.6,0.0,0.25,0.3
+CaseInsensitiveString,4.1 mini,pro,0.25,0.75,0.0,0.0,0.25
+CaseInsensitiveString,4.1 mini,sonnet,0.05,0.6,0.0,0.35,0.05
+CaseInsensitiveString,flash,4.1,0.5,0.0,0.0,0.6,0.5
+CaseInsensitiveString,flash,4.1 mini,0.35,0.050000000000000044,0.0,0.65,0.35
+CaseInsensitiveString,flash,flash,0.75,0.09999999999999998,0.0,0.15,0.75
+CaseInsensitiveString,flash,haiku,0.15,0.050000000000000044,0.0,0.85,0.15
+CaseInsensitiveString,flash,pro,0.8,0.15000000000000002,0.0,0.05,0.8
+CaseInsensitiveString,flash,sonnet,0.4,0.0,0.0,0.8,0.4
+CaseInsensitiveString,haiku,4.1,0.15,0.09999999999999998,0.0,0.8,0.15
+CaseInsensitiveString,haiku,4.1 mini,0.9,0.050000000000000044,0.0,0.75,0.9
+CaseInsensitiveString,haiku,flash,0.4,0.30000000000000004,0.0,0.3,0.4
+CaseInsensitiveString,haiku,haiku,0.15,0.0,0.0,0.9,0.15
+CaseInsensitiveString,haiku,pro,0.3,0.25,0.0,0.45,0.3
+CaseInsensitiveString,haiku,sonnet,0.1,0.0,0.0,1.0,0.1
+CaseInsensitiveString,pro,4.1,0.35,0.4,0.0,0.3,0.35
+CaseInsensitiveString,pro,4.1 mini,0.5,0.35,0.0,0.45,0.5
+CaseInsensitiveString,pro,flash,0.55,0.35,0.0,0.1,0.55
+CaseInsensitiveString,pro,haiku,0.2,0.25,0.0,0.55,0.2
+CaseInsensitiveString,pro,pro,0.6,0.25,0.0,0.15,0.6
+CaseInsensitiveString,pro,sonnet,0.15,0.25,0.0,0.65,0.15
+CaseInsensitiveString,sonnet,4.1,0.2,0.19999999999999996,0.0,0.6,0.2
+CaseInsensitiveString,sonnet,4.1 mini,0.15,0.4,0.0,0.45,0.15
+CaseInsensitiveString,sonnet,flash,0.5,0.19999999999999996,0.0,0.3,0.5
+CaseInsensitiveString,sonnet,haiku,0.05,0.7,0.0,0.25,0.05
+CaseInsensitiveString,sonnet,pro,0.5,0.25,0.0,0.3,0.5
+CaseInsensitiveString,sonnet,sonnet,0.05,0.09999999999999998,0.0,0.85,0.05
+CharRange,4.1,4.1,0.1,0.9,0.0,0.0,0.1
+CharRange,4.1,4.1 mini,0.15,0.85,0.0,0.0,0.15
+CharRange,4.1,flash,0.2,0.8,0.0,0.0,0.2
+CharRange,4.1,haiku,0.05,0.95,0.0,0.0,0.05
+CharRange,4.1,pro,0.1,0.9,0.0,0.0,0.1
+CharRange,4.1,sonnet,0.1,0.9,0.0,0.0,0.1
+CharRange,4.1 mini,4.1,0.2,0.8,0.0,0.0,0.2
+CharRange,4.1 mini,4.1 mini,0.25,0.7,0.0,0.05,0.25
+CharRange,4.1 mini,flash,0.25,0.75,0.0,0.0,0.25
+CharRange,4.1 mini,haiku,0.1,0.65,0.0,0.25,0.1
+CharRange,4.1 mini,pro,0.25,0.75,0.0,0.0,0.25
+CharRange,4.1 mini,sonnet,0.15,0.8,0.0,0.15,0.15
+CharRange,flash,4.1,0.35,0.5,0.0,0.15,0.35
+CharRange,flash,4.1 mini,0.45,0.44999999999999996,0.0,0.1,0.45
+CharRange,flash,flash,0.5,0.5,0.0,0.0,0.5
+CharRange,flash,haiku,0.1,0.35,0.0,0.55,0.1
+CharRange,flash,pro,0.6,0.4,0.0,0.0,0.6
+CharRange,flash,sonnet,0.35,0.44999999999999996,0.0,0.2,0.35
+CharRange,haiku,4.1,0.4,0.35,0.0,0.3,0.4
+CharRange,haiku,4.1 mini,0.25,0.5,0.0,0.25,0.25
+CharRange,haiku,flash,0.5,0.44999999999999996,0.0,0.05,0.5
+CharRange,haiku,haiku,0.2,0.30000000000000004,0.0,0.55,0.2
+CharRange,haiku,pro,0.5,0.35,0.0,0.15,0.5
+CharRange,haiku,sonnet,0.3,0.30000000000000004,0.0,0.5,0.3
+CharRange,pro,4.1,0.4,0.6,0.0,0.0,0.4
+CharRange,pro,4.1 mini,0.35,0.55,0.0,0.1,0.35
+CharRange,pro,flash,0.35,0.65,0.0,0.0,0.35
+CharRange,pro,haiku,0.15,0.44999999999999996,0.0,0.4,0.15
+CharRange,pro,pro,0.45,0.5,0.0,0.05,0.45
+CharRange,pro,sonnet,0.35,0.55,0.0,0.15,0.35
+CharRange,sonnet,4.1,0.0,1.0,,0.0,0.0
+CharRange,sonnet,4.1 mini,0.0,1.0,,0.0,0.0
+CharRange,sonnet,flash,0.35,0.65,0.0,0.0,0.35
+CharRange,sonnet,haiku,0.0,1.0,,0.0,0.0
+CharRange,sonnet,pro,0.35,0.65,0.0,0.0,0.35
+CharRange,sonnet,sonnet,0.0,1.0,,0.0,0.0
+Complex,4.1,4.1,0.4,0.44999999999999996,0.0,0.25,0.4
+Complex,4.1,4.1 mini,0.3,0.7,0.0,0.0,0.3
+Complex,4.1,flash,0.25,0.75,0.0,0.0,0.25
+Complex,4.1,haiku,0.4,0.44999999999999996,0.0,0.3,0.4
+Complex,4.1,pro,0.3,0.7,0.0,0.0,0.3
+Complex,4.1,sonnet,0.25,0.5,0.0,0.25,0.25
+Complex,4.1 mini,4.1,0.45,0.30000000000000004,0.0,0.45,0.45
+Complex,4.1 mini,4.1 mini,0.4,0.6,0.0,0.2,0.4
+Complex,4.1 mini,flash,0.4,0.55,0.0,0.1,0.4
+Complex,4.1 mini,haiku,0.25,0.35,0.0,0.4,0.25
+Complex,4.1 mini,pro,0.35,0.30000000000000004,0.0,0.35,0.35
+Complex,4.1 mini,sonnet,0.2,0.4,0.0,0.4,0.2
+Complex,flash,4.1,0.7,0.25,0.0,0.05,0.7
+Complex,flash,4.1 mini,0.45,0.5,0.0,0.05,0.45
+Complex,flash,flash,0.75,0.25,0.0,0.05,0.75
+Complex,flash,haiku,0.5,0.15000000000000002,0.0,0.45,0.5
+Complex,flash,pro,0.55,0.4,0.0,0.05,0.55
+Complex,flash,sonnet,0.5,0.30000000000000004,0.0,0.25,0.5
+Complex,haiku,4.1,0.2,0.7,0.0,0.15,0.2
+Complex,haiku,4.1 mini,0.1,0.6,0.0,0.3,0.1
+Complex,haiku,flash,0.05,0.7,0.0,0.25,0.05
+Complex,haiku,haiku,0.05,0.75,0.0,0.2,0.05
+Complex,haiku,pro,0.1,0.55,0.0,0.35,0.1
+Complex,haiku,sonnet,0.05,0.75,0.0,0.2,0.05
+Complex,pro,4.1,0.3,0.7,0.0,0.0,0.3
+Complex,pro,4.1 mini,0.45,0.55,0.0,0.0,0.45
+Complex,pro,flash,0.35,0.65,0.0,0.0,0.35
+Complex,pro,haiku,0.2,0.6,0.0,0.2,0.2
+Complex,pro,pro,0.45,0.55,0.0,0.0,0.45
+Complex,pro,sonnet,0.3,0.55,0.0,0.15,0.3
+Complex,sonnet,4.1,0.15,0.7,0.0,0.15,0.15
+Complex,sonnet,4.1 mini,0.2,0.8,0.0,0.0,0.2
+Complex,sonnet,flash,0.35,0.55,0.0,0.1,0.35
+Complex,sonnet,haiku,0.0,0.8,0.0,0.2,0.0
+Complex,sonnet,pro,0.45,0.55,0.0,0.0,0.45
+Complex,sonnet,sonnet,0.05,0.8,0.0,0.15,0.05
+Document,4.1,4.1,0.05,0.6,0.0,0.35,0.05
+Document,4.1,4.1 mini,0.1,0.4,0.0,0.55,0.1
+Document,4.1,flash,0.05,0.6,0.0,0.35,0.05
+Document,4.1,haiku,0.0,0.75,0.0,0.25,0.0
+Document,4.1,pro,0.1,0.44999999999999996,0.0,0.45,0.1
+Document,4.1,sonnet,0.1,0.55,0.0,0.35,0.1
+Document,4.1 mini,4.1,0.0,0.050000000000000044,0.0,0.95,0.0
+Document,4.1 mini,4.1 mini,0.0,0.09999999999999998,0.0,0.9,0.0
+Document,4.1 mini,flash,0.0,0.09999999999999998,0.0,0.9,0.0
+Document,4.1 mini,haiku,0.0,0.09999999999999998,0.0,0.9,0.0
+Document,4.1 mini,pro,0.0,0.050000000000000044,0.0,0.95,0.0
+Document,4.1 mini,sonnet,0.05,0.15000000000000002,0.0,0.8,0.05
+Document,flash,4.1,0.0,0.0,0.0,1.0,0.0
+Document,flash,4.1 mini,0.0,0.0,0.0,1.0,0.0
+Document,flash,flash,0.0,0.0,0.0,1.0,0.0
+Document,flash,haiku,0.0,0.0,0.0,1.0,0.0
+Document,flash,pro,0.0,0.0,0.0,1.0,0.0
+Document,flash,sonnet,0.0,0.0,0.0,1.0,0.0
+Document,haiku,4.1,0.05,0.0,0.0,0.95,0.05
+Document,haiku,4.1 mini,0.0,0.0,0.0,1.0,0.0
+Document,haiku,flash,0.0,0.0,0.0,1.0,0.0
+Document,haiku,haiku,0.0,0.0,0.0,1.0,0.0
+Document,haiku,pro,0.05,0.0,0.0,0.95,0.05
+Document,haiku,sonnet,0.0,0.050000000000000044,0.0,0.95,0.0
+Document,pro,4.1,0.0,0.35,0.0,0.65,0.0
+Document,pro,4.1 mini,0.0,0.30000000000000004,0.0,0.7,0.0
+Document,pro,flash,0.0,0.35,0.0,0.65,0.0
+Document,pro,haiku,0.0,0.35,0.0,0.65,0.0
+Document,pro,pro,0.0,0.55,0.0,0.45,0.0
+Document,pro,sonnet,0.0,0.35,0.0,0.65,0.0
+Document,sonnet,4.1,0.0,0.85,0.0,0.15,0.0
+Document,sonnet,4.1 mini,0.0,0.85,0.0,0.15,0.0
+Document,sonnet,flash,0.05,0.65,0.0,0.3,0.05
+Document,sonnet,haiku,0.0,0.8,0.0,0.2,0.0
+Document,sonnet,pro,0.05,0.5,0.0,0.45,0.05
+Document,sonnet,sonnet,0.0,0.9,0.0,0.1,0.0
+IntHashMap,4.1,4.1,0.4,0.15000000000000002,0.0,0.5,0.4
+IntHashMap,4.1,4.1 mini,0.2,0.050000000000000044,0.0,0.75,0.2
+IntHashMap,4.1,flash,0.65,0.050000000000000044,0.0,0.35,0.65
+IntHashMap,4.1,haiku,0.15,0.15000000000000002,0.0,0.75,0.15
+IntHashMap,4.1,pro,0.5,0.19999999999999996,0.0,0.3,0.5
+IntHashMap,4.1,sonnet,0.2,0.15000000000000002,0.0,0.75,0.2
+IntHashMap,4.1 mini,4.1,0.15,0.25,0.0,0.6,0.15
+IntHashMap,4.1 mini,4.1 mini,0.25,0.19999999999999996,0.0,0.6,0.25
+IntHashMap,4.1 mini,flash,0.45,0.09999999999999998,0.0,0.5,0.45
+IntHashMap,4.1 mini,haiku,0.2,0.0,0.0,0.95,0.2
+IntHashMap,4.1 mini,pro,0.35,0.19999999999999996,0.0,0.45,0.35
+IntHashMap,4.1 mini,sonnet,0.05,0.09999999999999998,0.0,0.85,0.05
+IntHashMap,flash,4.1,0.25,0.35,0.0,0.4,0.25
+IntHashMap,flash,4.1 mini,0.2,0.35,0.0,0.45,0.2
+IntHashMap,flash,flash,0.6,0.35,0.0,0.05,0.6
+IntHashMap,flash,haiku,0.15,0.35,0.0,0.5,0.15
+IntHashMap,flash,pro,0.55,0.30000000000000004,0.0,0.2,0.55
+IntHashMap,flash,sonnet,0.2,0.30000000000000004,0.0,0.5,0.2
+IntHashMap,haiku,4.1,0.1,0.19999999999999996,0.0,0.7,0.1
+IntHashMap,haiku,4.1 mini,0.0,0.35,0.0,0.65,0.0
+IntHashMap,haiku,flash,0.35,0.6,0.0,0.3,0.35
+IntHashMap,haiku,haiku,0.0,0.35,0.0,0.65,0.0
+IntHashMap,haiku,pro,0.05,0.30000000000000004,0.0,0.65,0.05
+IntHashMap,haiku,sonnet,0.0,0.30000000000000004,0.0,0.7,0.0
+IntHashMap,pro,4.1,0.0,0.9,0.0,0.1,0.0
+IntHashMap,pro,4.1 mini,0.05,0.85,0.0,0.1,0.05
+IntHashMap,pro,flash,0.0,0.95,0.0,0.05,0.0
+IntHashMap,pro,haiku,0.0,0.9,0.0,0.1,0.0
+IntHashMap,pro,pro,0.0,1.0,,0.0,0.0
+IntHashMap,pro,sonnet,0.0,0.95,0.0,0.05,0.0
+IntHashMap,sonnet,4.1,0.05,0.55,0.0,0.4,0.05
+IntHashMap,sonnet,4.1 mini,0.05,0.44999999999999996,0.0,0.5,0.05
+IntHashMap,sonnet,flash,0.45,0.050000000000000044,0.0,0.55,0.45
+IntHashMap,sonnet,haiku,0.0,0.5,0.0,0.5,0.0
+IntHashMap,sonnet,pro,0.35,0.09999999999999998,0.0,0.55,0.35
+IntHashMap,sonnet,sonnet,0.05,0.15000000000000002,0.0,0.8,0.05
+Option,4.1,4.1,0.35,0.0,0.0,0.65,0.35
+Option,4.1,4.1 mini,0.5,0.0,0.0,0.55,0.5
+Option,4.1,flash,0.95,0.0,0.0,0.05,0.95
+Option,4.1,haiku,0.5,0.0,0.0,0.6,0.5
+Option,4.1,pro,0.85,0.0,0.0,0.2,0.85
+Option,4.1,sonnet,0.2,0.0,0.0,0.85,0.2
+Option,4.1 mini,4.1,0.35,0.35,0.0,0.45,0.35
+Option,4.1 mini,4.1 mini,0.25,0.5,0.0,0.3,0.25
+Option,4.1 mini,flash,0.35,0.4,0.0,0.25,0.35
+Option,4.1 mini,haiku,0.2,0.15000000000000002,0.0,0.65,0.2
+Option,4.1 mini,pro,0.4,0.6,0.0,0.0,0.4
+Option,4.1 mini,sonnet,0.25,0.19999999999999996,0.0,0.6,0.25
+Option,flash,4.1,0.0,1.0,,0.0,0.0
+Option,flash,4.1 mini,0.0,1.0,,0.0,0.0
+Option,flash,flash,0.0,1.0,,0.0,0.0
+Option,flash,haiku,0.0,1.0,,0.0,0.0
+Option,flash,pro,0.0,1.0,,0.0,0.0
+Option,flash,sonnet,0.0,1.0,,0.0,0.0
+Option,haiku,4.1,0.0,1.0,,0.0,0.0
+Option,haiku,4.1 mini,0.0,1.0,,0.0,0.0
+Option,haiku,flash,0.0,1.0,,0.0,0.0
+Option,haiku,haiku,0.0,1.0,,0.0,0.0
+Option,haiku,pro,0.0,1.0,,0.0,0.0
+Option,haiku,sonnet,0.0,1.0,,0.0,0.0
+Option,pro,4.1,0.0,1.0,,0.0,0.0
+Option,pro,4.1 mini,0.0,1.0,,0.0,0.0
+Option,pro,flash,0.0,1.0,,0.0,0.0
+Option,pro,haiku,0.0,1.0,,0.0,0.0
+Option,pro,pro,0.0,1.0,,0.0,0.0
+Option,pro,sonnet,0.0,1.0,,0.0,0.0
+Rational,4.1,4.1,0.5,0.4,0.0,0.3,0.5
+Rational,4.1,4.1 mini,0.25,0.7,0.0,0.1,0.25
+Rational,4.1,flash,0.35,0.6,0.0,0.05,0.35
+Rational,4.1,haiku,0.05,0.0,0.0,0.95,0.05
+Rational,4.1,pro,0.25,0.6,0.0,0.15,0.25
+Rational,4.1,sonnet,0.05,0.0,0.0,0.95,0.05
+Rational,4.1 mini,4.1,0.55,0.19999999999999996,0.0,0.5,0.55
+Rational,4.1 mini,4.1 mini,0.2,0.4,0.0,0.4,0.2
+Rational,4.1 mini,flash,0.3,0.4,0.0,0.3,0.3
+Rational,4.1 mini,haiku,0.3,0.4,0.0,0.35,0.3
+Rational,4.1 mini,pro,0.5,0.4,0.0,0.15,0.5
+Rational,4.1 mini,sonnet,0.15,0.0,0.0,0.85,0.15
+Rational,flash,4.1,0.25,0.7,0.0,0.05,0.25
+Rational,flash,4.1 mini,0.35,0.6,0.0,0.05,0.35
+Rational,flash,flash,0.45,0.55,0.0,0.0,0.45
+Rational,flash,haiku,0.4,0.5,0.0,0.15,0.4
+Rational,flash,pro,0.5,0.5,0.0,0.0,0.5
+Rational,flash,sonnet,0.35,0.25,0.0,0.45,0.35
+Rational,haiku,4.1,0.35,0.44999999999999996,0.0,0.2,0.35
+Rational,haiku,4.1 mini,0.5,0.25,0.0,0.5,0.5
+Rational,haiku,flash,0.45,0.25,0.0,0.35,0.45
+Rational,haiku,haiku,0.3,0.19999999999999996,0.0,0.7,0.3
+Rational,haiku,pro,0.3,0.30000000000000004,0.0,0.4,0.3
+Rational,haiku,sonnet,0.15,0.25,0.0,0.6,0.15
+Rational,pro,4.1,0.3,0.65,0.0,0.05,0.3
+Rational,pro,4.1 mini,0.35,0.6,0.0,0.05,0.35
+Rational,pro,flash,0.4,0.55,0.0,0.05,0.4
+Rational,pro,haiku,0.25,0.55,0.0,0.2,0.25
+Rational,pro,pro,0.55,0.44999999999999996,0.0,0.0,0.55
+Rational,pro,sonnet,0.3,0.5,0.0,0.2,0.3
+Rational,sonnet,4.1,0.0,0.9,0.0,0.1,0.0
+Rational,sonnet,4.1 mini,0.05,0.9,0.0,0.05,0.05
+Rational,sonnet,flash,0.05,0.85,0.0,0.1,0.05
+Rational,sonnet,haiku,0.05,0.9,0.0,0.05,0.05
+Rational,sonnet,pro,0.15,0.75,0.0,0.1,0.15
+Rational,sonnet,sonnet,0.0,0.95,0.0,0.05,0.0
+SparseIntArray,4.1,4.1,0.2,0.7,0.0,0.1,0.2
+SparseIntArray,4.1,4.1 mini,0.2,0.55,0.0,0.25,0.2
+SparseIntArray,4.1,flash,0.45,0.44999999999999996,0.0,0.1,0.45
+SparseIntArray,4.1,haiku,0.55,0.19999999999999996,0.0,0.45,0.55
+SparseIntArray,4.1,pro,0.35,0.55,0.0,0.15,0.35
+SparseIntArray,4.1,sonnet,0.25,0.7,0.0,0.05,0.25
+SparseIntArray,4.1 mini,4.1,0.3,0.35,0.0,0.35,0.3
+SparseIntArray,4.1 mini,4.1 mini,0.45,0.25,0.0,0.35,0.45
+SparseIntArray,4.1 mini,flash,0.4,0.30000000000000004,0.0,0.35,0.4
+SparseIntArray,4.1 mini,haiku,0.3,0.30000000000000004,0.0,0.5,0.3
+SparseIntArray,4.1 mini,pro,0.4,0.19999999999999996,0.0,0.4,0.4
+SparseIntArray,4.1 mini,sonnet,0.4,0.050000000000000044,0.0,0.7,0.4
+SparseIntArray,flash,4.1,0.35,0.65,0.0,0.0,0.35
+SparseIntArray,flash,4.1 mini,0.25,0.75,0.0,0.0,0.25
+SparseIntArray,flash,flash,0.4,0.55,0.0,0.05,0.4
+SparseIntArray,flash,haiku,0.35,0.65,0.0,0.1,0.35
+SparseIntArray,flash,pro,0.15,0.85,0.0,0.0,0.15
+SparseIntArray,flash,sonnet,0.2,0.65,0.0,0.15,0.2
+SparseIntArray,haiku,4.1,0.55,0.25,0.0,0.3,0.55
+SparseIntArray,haiku,4.1 mini,0.15,0.25,0.0,0.6,0.15
+SparseIntArray,haiku,flash,0.2,0.30000000000000004,0.0,0.5,0.2
+SparseIntArray,haiku,haiku,0.2,0.19999999999999996,0.0,0.65,0.2
+SparseIntArray,haiku,pro,0.25,0.44999999999999996,0.0,0.3,0.25
+SparseIntArray,haiku,sonnet,0.2,0.44999999999999996,0.0,0.35,0.2
+SparseIntArray,pro,4.1,0.15,0.85,0.0,0.0,0.15
+SparseIntArray,pro,4.1 mini,0.0,1.0,,0.0,0.0
+SparseIntArray,pro,flash,0.1,0.9,0.0,0.0,0.1
+SparseIntArray,pro,haiku,0.2,0.75,0.0,0.05,0.2
+SparseIntArray,pro,pro,0.1,0.9,0.0,0.0,0.1
+SparseIntArray,pro,sonnet,0.05,0.95,0.0,0.0,0.05
+SparseIntArray,sonnet,4.1,0.05,0.9,0.0,0.05,0.05
+SparseIntArray,sonnet,4.1 mini,0.05,0.9,0.0,0.05,0.05
+SparseIntArray,sonnet,flash,0.1,0.8,0.0,0.1,0.1
+SparseIntArray,sonnet,haiku,0.05,0.9,0.0,0.05,0.05
+SparseIntArray,sonnet,pro,0.2,0.75,0.0,0.05,0.2
+SparseIntArray,sonnet,sonnet,0.05,0.9,0.0,0.05,0.05
+XmlElement,4.1,4.1,0.5,0.15000000000000002,0.0,0.5,0.5
+XmlElement,4.1,4.1 mini,0.6,0.09999999999999998,0.0,0.4,0.6
+XmlElement,4.1,flash,0.7,0.25,0.0,0.05,0.7
+XmlElement,4.1,haiku,0.55,0.09999999999999998,0.0,0.6,0.55
+XmlElement,4.1,pro,0.5,0.30000000000000004,0.0,0.2,0.5
+XmlElement,4.1,sonnet,0.35,0.050000000000000044,0.0,0.65,0.35
+XmlElement,4.1 mini,4.1,0.45,0.30000000000000004,0.0,0.4,0.45
+XmlElement,4.1 mini,4.1 mini,0.5,0.4,0.0,0.15,0.5
+XmlElement,4.1 mini,flash,0.45,0.4,0.0,0.2,0.45
+XmlElement,4.1 mini,haiku,0.25,0.19999999999999996,0.0,0.55,0.25
+XmlElement,4.1 mini,pro,0.45,0.44999999999999996,0.0,0.15,0.45
+XmlElement,4.1 mini,sonnet,0.15,0.050000000000000044,0.0,0.8,0.15
+XmlElement,flash,4.1,0.1,0.75,0.0,0.15,0.1
+XmlElement,flash,4.1 mini,0.1,0.7,0.0,0.2,0.1
+XmlElement,flash,flash,0.2,0.75,0.0,0.05,0.2
+XmlElement,flash,haiku,0.1,0.85,0.0,0.05,0.1
+XmlElement,flash,pro,0.2,0.8,0.0,0.0,0.2
+XmlElement,flash,sonnet,0.2,0.75,0.0,0.05,0.2
+XmlElement,haiku,4.1,0.1,0.15000000000000002,0.0,0.75,0.1
+XmlElement,haiku,4.1 mini,0.15,0.6,0.0,0.3,0.15
+XmlElement,haiku,flash,0.2,0.35,0.0,0.45,0.2
+XmlElement,haiku,haiku,0.15,0.09999999999999998,0.0,0.85,0.15
+XmlElement,haiku,pro,0.25,0.5,0.0,0.4,0.25
+XmlElement,haiku,sonnet,0.05,0.0,0.0,0.95,0.05
+XmlElement,pro,4.1,0.1,0.8,0.0,0.1,0.1
+XmlElement,pro,4.1 mini,0.05,0.9,0.0,0.05,0.05
+XmlElement,pro,flash,0.1,0.85,0.0,0.05,0.1
+XmlElement,pro,haiku,0.0,0.9,0.0,0.1,0.0
+XmlElement,pro,pro,0.15,0.85,0.0,0.0,0.15
+XmlElement,pro,sonnet,0.05,0.8,0.0,0.15,0.05
+XmlElement,sonnet,4.1,0.0,0.65,0.0,0.35,0.0
+XmlElement,sonnet,4.1 mini,0.05,0.95,0.0,0.0,0.05
+XmlElement,sonnet,flash,0.15,0.7,0.0,0.15,0.15
+XmlElement,sonnet,haiku,0.05,0.95,0.0,0.0,0.05
+XmlElement,sonnet,pro,0.25,0.6,0.0,0.15,0.25
+XmlElement,sonnet,sonnet,0.0,0.65,0.0,0.35,0.0
