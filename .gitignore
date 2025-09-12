@@ -20,3 +20,5 @@ dist/
 
 
 metrics/config
+experiments/config
+experiments/resources/setups
