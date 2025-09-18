@@ -12,13 +12,13 @@ from util.logging import Logger
 
 setups_path = 'resources/setups/'
 
-with open('config/api_keys.json') as json_file:
+with open('config/llm_api_keys.json') as json_file:
     llm_apikeys = json.load(json_file)
 
-with open('config/codedefenders_creds.json') as json_file:
+with open('config/codedefenders_users.json') as json_file:
     code_defenders_credentials = json.load(json_file)
 
-with open('config/logs_db_creds.json') as json_file:
+with open('config/postgres_user.json') as json_file:
     database_credentials = json.load(json_file)
 
 DB_HOST = "localhost"
