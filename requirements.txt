@@ -1,0 +1,9 @@
+openai
+anthropic
+google-generativeai
+pandas
+numpy
+psycopg2
+requests
+jupyter
+ipykernel
