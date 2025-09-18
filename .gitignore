@@ -19,6 +19,8 @@ dist/
 *.egg-info/
 
 
-metrics/config
-experiments/config
-experiments/resources/setups
+metrics/config/postgres_user.json
+experiments/config/llm_api_keys.json
+experiments/config/codedefenders_users.json
+experiments/config/postgres_user.json
+experiments/resources/setups/*
