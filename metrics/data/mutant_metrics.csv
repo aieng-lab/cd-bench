@@ -1,355 +1,355 @@
 class_alias,attacker,defender,score,mut_forfeit,mut_equivalent,mut_survived_turn,mut_survived_game
-ByteVector,4.1,4.1,0.55,0.19999999999999996,0.0,0.25,0.55
-ByteVector,4.1,4.1 mini,0.45,0.15000000000000002,0.0,0.5,0.45
-ByteVector,4.1,flash,0.0,1.0,,0.0,0.0
-ByteVector,4.1,haiku,0.05,0.8,0.0,0.15,0.05
-ByteVector,4.1,pro,0.0,1.0,,0.0,0.0
-ByteVector,4.1,sonnet,0.1,0.9,0.0,0.0,0.1
-ByteVector,4.1 mini,4.1,0.4,0.5,0.0,0.25,0.4
-ByteVector,4.1 mini,4.1 mini,0.2,0.30000000000000004,0.0,0.5,0.2
-ByteVector,4.1 mini,flash,0.0,1.0,,0.0,0.0
-ByteVector,4.1 mini,haiku,0.25,0.30000000000000004,0.0,0.65,0.25
-ByteVector,4.1 mini,pro,0.0,1.0,,0.0,0.0
-ByteVector,4.1 mini,sonnet,0.25,0.050000000000000044,0.0,0.75,0.25
-ByteVector,flash,4.1,0.0,1.0,,0.0,0.0
-ByteVector,flash,4.1 mini,0.0,1.0,,0.0,0.0
-ByteVector,flash,flash,0.0,1.0,,0.0,0.0
-ByteVector,flash,haiku,0.0,1.0,,0.0,0.0
-ByteVector,flash,pro,0.0,1.0,,0.0,0.0
-ByteVector,flash,sonnet,0.0,1.0,,0.0,0.0
-ByteVector,haiku,4.1,0.2,0.30000000000000004,0.0,0.5,0.2
-ByteVector,haiku,4.1 mini,0.2,0.19999999999999996,0.0,0.6,0.2
-ByteVector,haiku,flash,0.05,0.95,0.0,0.0,0.05
-ByteVector,haiku,haiku,0.2,0.25,0.0,0.6,0.2
-ByteVector,haiku,pro,0.0,1.0,,0.0,0.0
-ByteVector,haiku,sonnet,0.35,0.050000000000000044,0.0,0.65,0.35
-ByteVector,pro,4.1,0.0,1.0,,0.0,0.0
-ByteVector,pro,4.1 mini,0.0,1.0,,0.0,0.0
-ByteVector,pro,flash,0.0,1.0,,0.0,0.0
-ByteVector,pro,haiku,0.0,1.0,,0.0,0.0
-ByteVector,pro,pro,0.0,1.0,,0.0,0.0
-ByteVector,pro,sonnet,0.0,1.0,,0.0,0.0
-ByteVector,sonnet,4.1,0.05,0.4,0.0,0.55,0.05
-ByteVector,sonnet,4.1 mini,0.1,0.5,0.0,0.4,0.1
-ByteVector,sonnet,flash,0.0,1.0,,0.0,0.0
-ByteVector,sonnet,haiku,0.0,0.65,0.0,0.35,0.0
-ByteVector,sonnet,pro,0.0,1.0,,0.0,0.0
-ByteVector,sonnet,sonnet,0.0,0.7,0.0,0.3,0.0
-CaseInsensitiveString,4.1,4.1,0.15,0.19999999999999996,0.0,0.65,0.15
-CaseInsensitiveString,4.1,4.1 mini,0.25,0.09999999999999998,0.0,0.7,0.25
-CaseInsensitiveString,4.1,flash,0.55,0.30000000000000004,0.0,0.3,0.55
-CaseInsensitiveString,4.1,haiku,0.05,0.050000000000000044,0.0,0.9,0.05
-CaseInsensitiveString,4.1,pro,0.75,0.050000000000000044,0.0,0.5,0.75
-CaseInsensitiveString,4.1,sonnet,0.1,0.0,0.0,0.9,0.1
-CaseInsensitiveString,4.1 mini,4.1,0.05,0.65,0.0,0.3,0.05
-CaseInsensitiveString,4.1 mini,4.1 mini,0.2,0.35,0.0,0.5,0.2
-CaseInsensitiveString,4.1 mini,flash,0.25,0.65,0.0,0.1,0.25
-CaseInsensitiveString,4.1 mini,haiku,0.3,0.6,0.0,0.25,0.3
-CaseInsensitiveString,4.1 mini,pro,0.25,0.75,0.0,0.0,0.25
-CaseInsensitiveString,4.1 mini,sonnet,0.05,0.6,0.0,0.35,0.05
-CaseInsensitiveString,flash,4.1,0.5,0.0,0.0,0.6,0.5
-CaseInsensitiveString,flash,4.1 mini,0.35,0.050000000000000044,0.0,0.65,0.35
-CaseInsensitiveString,flash,flash,0.75,0.09999999999999998,0.0,0.15,0.75
-CaseInsensitiveString,flash,haiku,0.15,0.050000000000000044,0.0,0.85,0.15
-CaseInsensitiveString,flash,pro,0.8,0.15000000000000002,0.0,0.05,0.8
-CaseInsensitiveString,flash,sonnet,0.4,0.0,0.0,0.8,0.4
-CaseInsensitiveString,haiku,4.1,0.15,0.09999999999999998,0.0,0.8,0.15
-CaseInsensitiveString,haiku,4.1 mini,0.9,0.050000000000000044,0.0,0.75,0.9
-CaseInsensitiveString,haiku,flash,0.4,0.30000000000000004,0.0,0.3,0.4
-CaseInsensitiveString,haiku,haiku,0.15,0.0,0.0,0.9,0.15
-CaseInsensitiveString,haiku,pro,0.3,0.25,0.0,0.45,0.3
-CaseInsensitiveString,haiku,sonnet,0.1,0.0,0.0,1.0,0.1
-CaseInsensitiveString,pro,4.1,0.35,0.4,0.0,0.3,0.35
-CaseInsensitiveString,pro,4.1 mini,0.5,0.35,0.0,0.45,0.5
-CaseInsensitiveString,pro,flash,0.55,0.35,0.0,0.1,0.55
-CaseInsensitiveString,pro,haiku,0.2,0.25,0.0,0.55,0.2
-CaseInsensitiveString,pro,pro,0.6,0.25,0.0,0.15,0.6
-CaseInsensitiveString,pro,sonnet,0.15,0.25,0.0,0.65,0.15
-CaseInsensitiveString,sonnet,4.1,0.2,0.19999999999999996,0.0,0.6,0.2
-CaseInsensitiveString,sonnet,4.1 mini,0.15,0.4,0.0,0.45,0.15
-CaseInsensitiveString,sonnet,flash,0.5,0.19999999999999996,0.0,0.3,0.5
-CaseInsensitiveString,sonnet,haiku,0.05,0.7,0.0,0.25,0.05
-CaseInsensitiveString,sonnet,pro,0.5,0.25,0.0,0.3,0.5
-CaseInsensitiveString,sonnet,sonnet,0.05,0.09999999999999998,0.0,0.85,0.05
-CharRange,4.1,4.1,0.1,0.9,0.0,0.0,0.1
-CharRange,4.1,4.1 mini,0.15,0.85,0.0,0.0,0.15
-CharRange,4.1,flash,0.2,0.8,0.0,0.0,0.2
-CharRange,4.1,haiku,0.05,0.95,0.0,0.0,0.05
-CharRange,4.1,pro,0.1,0.9,0.0,0.0,0.1
-CharRange,4.1,sonnet,0.1,0.9,0.0,0.0,0.1
-CharRange,4.1 mini,4.1,0.2,0.8,0.0,0.0,0.2
-CharRange,4.1 mini,4.1 mini,0.25,0.7,0.0,0.05,0.25
-CharRange,4.1 mini,flash,0.25,0.75,0.0,0.0,0.25
-CharRange,4.1 mini,haiku,0.1,0.65,0.0,0.25,0.1
-CharRange,4.1 mini,pro,0.25,0.75,0.0,0.0,0.25
-CharRange,4.1 mini,sonnet,0.15,0.8,0.0,0.15,0.15
-CharRange,flash,4.1,0.35,0.5,0.0,0.15,0.35
-CharRange,flash,4.1 mini,0.45,0.44999999999999996,0.0,0.1,0.45
-CharRange,flash,flash,0.5,0.5,0.0,0.0,0.5
-CharRange,flash,haiku,0.1,0.35,0.0,0.55,0.1
-CharRange,flash,pro,0.6,0.4,0.0,0.0,0.6
-CharRange,flash,sonnet,0.35,0.44999999999999996,0.0,0.2,0.35
-CharRange,haiku,4.1,0.4,0.35,0.0,0.3,0.4
-CharRange,haiku,4.1 mini,0.25,0.5,0.0,0.25,0.25
-CharRange,haiku,flash,0.5,0.44999999999999996,0.0,0.05,0.5
-CharRange,haiku,haiku,0.2,0.30000000000000004,0.0,0.55,0.2
-CharRange,haiku,pro,0.5,0.35,0.0,0.15,0.5
-CharRange,haiku,sonnet,0.3,0.30000000000000004,0.0,0.5,0.3
-CharRange,pro,4.1,0.4,0.6,0.0,0.0,0.4
-CharRange,pro,4.1 mini,0.35,0.55,0.0,0.1,0.35
-CharRange,pro,flash,0.35,0.65,0.0,0.0,0.35
-CharRange,pro,haiku,0.15,0.44999999999999996,0.0,0.4,0.15
-CharRange,pro,pro,0.45,0.5,0.0,0.05,0.45
-CharRange,pro,sonnet,0.35,0.55,0.0,0.15,0.35
-CharRange,sonnet,4.1,0.0,1.0,,0.0,0.0
-CharRange,sonnet,4.1 mini,0.0,1.0,,0.0,0.0
-CharRange,sonnet,flash,0.35,0.65,0.0,0.0,0.35
-CharRange,sonnet,haiku,0.0,1.0,,0.0,0.0
-CharRange,sonnet,pro,0.35,0.65,0.0,0.0,0.35
-CharRange,sonnet,sonnet,0.0,1.0,,0.0,0.0
-Complex,4.1,4.1,0.4,0.44999999999999996,0.0,0.25,0.4
-Complex,4.1,4.1 mini,0.3,0.7,0.0,0.0,0.3
-Complex,4.1,flash,0.25,0.75,0.0,0.0,0.25
-Complex,4.1,haiku,0.4,0.44999999999999996,0.0,0.3,0.4
-Complex,4.1,pro,0.3,0.7,0.0,0.0,0.3
-Complex,4.1,sonnet,0.25,0.5,0.0,0.25,0.25
-Complex,4.1 mini,4.1,0.45,0.30000000000000004,0.0,0.45,0.45
-Complex,4.1 mini,4.1 mini,0.4,0.6,0.0,0.2,0.4
-Complex,4.1 mini,flash,0.4,0.55,0.0,0.1,0.4
-Complex,4.1 mini,haiku,0.25,0.35,0.0,0.4,0.25
-Complex,4.1 mini,pro,0.35,0.30000000000000004,0.0,0.35,0.35
-Complex,4.1 mini,sonnet,0.2,0.4,0.0,0.4,0.2
-Complex,flash,4.1,0.7,0.25,0.0,0.05,0.7
-Complex,flash,4.1 mini,0.45,0.5,0.0,0.05,0.45
-Complex,flash,flash,0.75,0.25,0.0,0.05,0.75
-Complex,flash,haiku,0.5,0.15000000000000002,0.0,0.45,0.5
-Complex,flash,pro,0.55,0.4,0.0,0.05,0.55
-Complex,flash,sonnet,0.5,0.30000000000000004,0.0,0.25,0.5
-Complex,haiku,4.1,0.2,0.7,0.0,0.15,0.2
-Complex,haiku,4.1 mini,0.1,0.6,0.0,0.3,0.1
-Complex,haiku,flash,0.05,0.7,0.0,0.25,0.05
-Complex,haiku,haiku,0.05,0.75,0.0,0.2,0.05
-Complex,haiku,pro,0.1,0.55,0.0,0.35,0.1
-Complex,haiku,sonnet,0.05,0.75,0.0,0.2,0.05
-Complex,pro,4.1,0.3,0.7,0.0,0.0,0.3
-Complex,pro,4.1 mini,0.45,0.55,0.0,0.0,0.45
-Complex,pro,flash,0.35,0.65,0.0,0.0,0.35
-Complex,pro,haiku,0.2,0.6,0.0,0.2,0.2
-Complex,pro,pro,0.45,0.55,0.0,0.0,0.45
-Complex,pro,sonnet,0.3,0.55,0.0,0.15,0.3
-Complex,sonnet,4.1,0.15,0.7,0.0,0.15,0.15
-Complex,sonnet,4.1 mini,0.2,0.8,0.0,0.0,0.2
-Complex,sonnet,flash,0.35,0.55,0.0,0.1,0.35
-Complex,sonnet,haiku,0.0,0.8,0.0,0.2,0.0
-Complex,sonnet,pro,0.45,0.55,0.0,0.0,0.45
-Complex,sonnet,sonnet,0.05,0.8,0.0,0.15,0.05
-Document,4.1,4.1,0.05,0.6,0.0,0.35,0.05
-Document,4.1,4.1 mini,0.1,0.4,0.0,0.55,0.1
-Document,4.1,flash,0.05,0.6,0.0,0.35,0.05
-Document,4.1,haiku,0.0,0.75,0.0,0.25,0.0
-Document,4.1,pro,0.1,0.44999999999999996,0.0,0.45,0.1
-Document,4.1,sonnet,0.1,0.55,0.0,0.35,0.1
-Document,4.1 mini,4.1,0.0,0.050000000000000044,0.0,0.95,0.0
-Document,4.1 mini,4.1 mini,0.0,0.09999999999999998,0.0,0.9,0.0
-Document,4.1 mini,flash,0.0,0.09999999999999998,0.0,0.9,0.0
-Document,4.1 mini,haiku,0.0,0.09999999999999998,0.0,0.9,0.0
-Document,4.1 mini,pro,0.0,0.050000000000000044,0.0,0.95,0.0
-Document,4.1 mini,sonnet,0.05,0.15000000000000002,0.0,0.8,0.05
-Document,flash,4.1,0.0,0.0,0.0,1.0,0.0
-Document,flash,4.1 mini,0.0,0.0,0.0,1.0,0.0
-Document,flash,flash,0.0,0.0,0.0,1.0,0.0
-Document,flash,haiku,0.0,0.0,0.0,1.0,0.0
-Document,flash,pro,0.0,0.0,0.0,1.0,0.0
-Document,flash,sonnet,0.0,0.0,0.0,1.0,0.0
-Document,haiku,4.1,0.05,0.0,0.0,0.95,0.05
-Document,haiku,4.1 mini,0.0,0.0,0.0,1.0,0.0
-Document,haiku,flash,0.0,0.0,0.0,1.0,0.0
-Document,haiku,haiku,0.0,0.0,0.0,1.0,0.0
-Document,haiku,pro,0.05,0.0,0.0,0.95,0.05
-Document,haiku,sonnet,0.0,0.050000000000000044,0.0,0.95,0.0
-Document,pro,4.1,0.0,0.35,0.0,0.65,0.0
-Document,pro,4.1 mini,0.0,0.30000000000000004,0.0,0.7,0.0
-Document,pro,flash,0.0,0.35,0.0,0.65,0.0
-Document,pro,haiku,0.0,0.35,0.0,0.65,0.0
-Document,pro,pro,0.0,0.55,0.0,0.45,0.0
-Document,pro,sonnet,0.0,0.35,0.0,0.65,0.0
-Document,sonnet,4.1,0.0,0.85,0.0,0.15,0.0
-Document,sonnet,4.1 mini,0.0,0.85,0.0,0.15,0.0
-Document,sonnet,flash,0.05,0.65,0.0,0.3,0.05
-Document,sonnet,haiku,0.0,0.8,0.0,0.2,0.0
-Document,sonnet,pro,0.05,0.5,0.0,0.45,0.05
-Document,sonnet,sonnet,0.0,0.9,0.0,0.1,0.0
-IntHashMap,4.1,4.1,0.4,0.15000000000000002,0.0,0.5,0.4
-IntHashMap,4.1,4.1 mini,0.2,0.050000000000000044,0.0,0.75,0.2
-IntHashMap,4.1,flash,0.65,0.050000000000000044,0.0,0.35,0.65
-IntHashMap,4.1,haiku,0.15,0.15000000000000002,0.0,0.75,0.15
-IntHashMap,4.1,pro,0.5,0.19999999999999996,0.0,0.3,0.5
-IntHashMap,4.1,sonnet,0.2,0.15000000000000002,0.0,0.75,0.2
-IntHashMap,4.1 mini,4.1,0.15,0.25,0.0,0.6,0.15
-IntHashMap,4.1 mini,4.1 mini,0.25,0.19999999999999996,0.0,0.6,0.25
-IntHashMap,4.1 mini,flash,0.45,0.09999999999999998,0.0,0.5,0.45
-IntHashMap,4.1 mini,haiku,0.2,0.0,0.0,0.95,0.2
-IntHashMap,4.1 mini,pro,0.35,0.19999999999999996,0.0,0.45,0.35
-IntHashMap,4.1 mini,sonnet,0.05,0.09999999999999998,0.0,0.85,0.05
-IntHashMap,flash,4.1,0.25,0.35,0.0,0.4,0.25
-IntHashMap,flash,4.1 mini,0.2,0.35,0.0,0.45,0.2
-IntHashMap,flash,flash,0.6,0.35,0.0,0.05,0.6
-IntHashMap,flash,haiku,0.15,0.35,0.0,0.5,0.15
-IntHashMap,flash,pro,0.55,0.30000000000000004,0.0,0.2,0.55
-IntHashMap,flash,sonnet,0.2,0.30000000000000004,0.0,0.5,0.2
-IntHashMap,haiku,4.1,0.1,0.19999999999999996,0.0,0.7,0.1
-IntHashMap,haiku,4.1 mini,0.0,0.35,0.0,0.65,0.0
-IntHashMap,haiku,flash,0.35,0.6,0.0,0.3,0.35
-IntHashMap,haiku,haiku,0.0,0.35,0.0,0.65,0.0
-IntHashMap,haiku,pro,0.05,0.30000000000000004,0.0,0.65,0.05
-IntHashMap,haiku,sonnet,0.0,0.30000000000000004,0.0,0.7,0.0
-IntHashMap,pro,4.1,0.0,0.9,0.0,0.1,0.0
-IntHashMap,pro,4.1 mini,0.05,0.85,0.0,0.1,0.05
-IntHashMap,pro,flash,0.0,0.95,0.0,0.05,0.0
-IntHashMap,pro,haiku,0.0,0.9,0.0,0.1,0.0
-IntHashMap,pro,pro,0.0,1.0,,0.0,0.0
-IntHashMap,pro,sonnet,0.0,0.95,0.0,0.05,0.0
-IntHashMap,sonnet,4.1,0.05,0.55,0.0,0.4,0.05
-IntHashMap,sonnet,4.1 mini,0.05,0.44999999999999996,0.0,0.5,0.05
-IntHashMap,sonnet,flash,0.45,0.050000000000000044,0.0,0.55,0.45
-IntHashMap,sonnet,haiku,0.0,0.5,0.0,0.5,0.0
-IntHashMap,sonnet,pro,0.35,0.09999999999999998,0.0,0.55,0.35
-IntHashMap,sonnet,sonnet,0.05,0.15000000000000002,0.0,0.8,0.05
-Option,4.1,4.1,0.35,0.0,0.0,0.65,0.35
-Option,4.1,4.1 mini,0.5,0.0,0.0,0.55,0.5
-Option,4.1,flash,0.95,0.0,0.0,0.05,0.95
-Option,4.1,haiku,0.5,0.0,0.0,0.6,0.5
-Option,4.1,pro,0.85,0.0,0.0,0.2,0.85
-Option,4.1,sonnet,0.2,0.0,0.0,0.85,0.2
-Option,4.1 mini,4.1,0.35,0.35,0.0,0.45,0.35
-Option,4.1 mini,4.1 mini,0.25,0.5,0.0,0.3,0.25
-Option,4.1 mini,flash,0.35,0.4,0.0,0.25,0.35
-Option,4.1 mini,haiku,0.2,0.15000000000000002,0.0,0.65,0.2
-Option,4.1 mini,pro,0.4,0.6,0.0,0.0,0.4
-Option,4.1 mini,sonnet,0.25,0.19999999999999996,0.0,0.6,0.25
-Option,flash,4.1,0.0,1.0,,0.0,0.0
-Option,flash,4.1 mini,0.0,1.0,,0.0,0.0
-Option,flash,flash,0.0,1.0,,0.0,0.0
-Option,flash,haiku,0.0,1.0,,0.0,0.0
-Option,flash,pro,0.0,1.0,,0.0,0.0
-Option,flash,sonnet,0.0,1.0,,0.0,0.0
-Option,haiku,4.1,0.0,1.0,,0.0,0.0
-Option,haiku,4.1 mini,0.0,1.0,,0.0,0.0
-Option,haiku,flash,0.0,1.0,,0.0,0.0
-Option,haiku,haiku,0.0,1.0,,0.0,0.0
-Option,haiku,pro,0.0,1.0,,0.0,0.0
-Option,haiku,sonnet,0.0,1.0,,0.0,0.0
-Option,pro,4.1,0.0,1.0,,0.0,0.0
-Option,pro,4.1 mini,0.0,1.0,,0.0,0.0
-Option,pro,flash,0.0,1.0,,0.0,0.0
-Option,pro,haiku,0.0,1.0,,0.0,0.0
-Option,pro,pro,0.0,1.0,,0.0,0.0
-Option,pro,sonnet,0.0,1.0,,0.0,0.0
-Rational,4.1,4.1,0.5,0.4,0.0,0.3,0.5
-Rational,4.1,4.1 mini,0.25,0.7,0.0,0.1,0.25
-Rational,4.1,flash,0.35,0.6,0.0,0.05,0.35
-Rational,4.1,haiku,0.05,0.0,0.0,0.95,0.05
-Rational,4.1,pro,0.25,0.6,0.0,0.15,0.25
-Rational,4.1,sonnet,0.05,0.0,0.0,0.95,0.05
-Rational,4.1 mini,4.1,0.55,0.19999999999999996,0.0,0.5,0.55
-Rational,4.1 mini,4.1 mini,0.2,0.4,0.0,0.4,0.2
-Rational,4.1 mini,flash,0.3,0.4,0.0,0.3,0.3
-Rational,4.1 mini,haiku,0.3,0.4,0.0,0.35,0.3
-Rational,4.1 mini,pro,0.5,0.4,0.0,0.15,0.5
-Rational,4.1 mini,sonnet,0.15,0.0,0.0,0.85,0.15
-Rational,flash,4.1,0.25,0.7,0.0,0.05,0.25
-Rational,flash,4.1 mini,0.35,0.6,0.0,0.05,0.35
-Rational,flash,flash,0.45,0.55,0.0,0.0,0.45
-Rational,flash,haiku,0.4,0.5,0.0,0.15,0.4
-Rational,flash,pro,0.5,0.5,0.0,0.0,0.5
-Rational,flash,sonnet,0.35,0.25,0.0,0.45,0.35
-Rational,haiku,4.1,0.35,0.44999999999999996,0.0,0.2,0.35
-Rational,haiku,4.1 mini,0.5,0.25,0.0,0.5,0.5
-Rational,haiku,flash,0.45,0.25,0.0,0.35,0.45
-Rational,haiku,haiku,0.3,0.19999999999999996,0.0,0.7,0.3
-Rational,haiku,pro,0.3,0.30000000000000004,0.0,0.4,0.3
-Rational,haiku,sonnet,0.15,0.25,0.0,0.6,0.15
-Rational,pro,4.1,0.3,0.65,0.0,0.05,0.3
-Rational,pro,4.1 mini,0.35,0.6,0.0,0.05,0.35
-Rational,pro,flash,0.4,0.55,0.0,0.05,0.4
-Rational,pro,haiku,0.25,0.55,0.0,0.2,0.25
-Rational,pro,pro,0.55,0.44999999999999996,0.0,0.0,0.55
-Rational,pro,sonnet,0.3,0.5,0.0,0.2,0.3
-Rational,sonnet,4.1,0.0,0.9,0.0,0.1,0.0
-Rational,sonnet,4.1 mini,0.05,0.9,0.0,0.05,0.05
-Rational,sonnet,flash,0.05,0.85,0.0,0.1,0.05
-Rational,sonnet,haiku,0.05,0.9,0.0,0.05,0.05
-Rational,sonnet,pro,0.15,0.75,0.0,0.1,0.15
-Rational,sonnet,sonnet,0.0,0.95,0.0,0.05,0.0
-SparseIntArray,4.1,4.1,0.2,0.7,0.0,0.1,0.2
-SparseIntArray,4.1,4.1 mini,0.2,0.55,0.0,0.25,0.2
-SparseIntArray,4.1,flash,0.45,0.44999999999999996,0.0,0.1,0.45
-SparseIntArray,4.1,haiku,0.55,0.19999999999999996,0.0,0.45,0.55
-SparseIntArray,4.1,pro,0.35,0.55,0.0,0.15,0.35
-SparseIntArray,4.1,sonnet,0.25,0.7,0.0,0.05,0.25
-SparseIntArray,4.1 mini,4.1,0.3,0.35,0.0,0.35,0.3
-SparseIntArray,4.1 mini,4.1 mini,0.45,0.25,0.0,0.35,0.45
-SparseIntArray,4.1 mini,flash,0.4,0.30000000000000004,0.0,0.35,0.4
-SparseIntArray,4.1 mini,haiku,0.3,0.30000000000000004,0.0,0.5,0.3
-SparseIntArray,4.1 mini,pro,0.4,0.19999999999999996,0.0,0.4,0.4
-SparseIntArray,4.1 mini,sonnet,0.4,0.050000000000000044,0.0,0.7,0.4
-SparseIntArray,flash,4.1,0.35,0.65,0.0,0.0,0.35
-SparseIntArray,flash,4.1 mini,0.25,0.75,0.0,0.0,0.25
-SparseIntArray,flash,flash,0.4,0.55,0.0,0.05,0.4
-SparseIntArray,flash,haiku,0.35,0.65,0.0,0.1,0.35
-SparseIntArray,flash,pro,0.15,0.85,0.0,0.0,0.15
-SparseIntArray,flash,sonnet,0.2,0.65,0.0,0.15,0.2
-SparseIntArray,haiku,4.1,0.55,0.25,0.0,0.3,0.55
-SparseIntArray,haiku,4.1 mini,0.15,0.25,0.0,0.6,0.15
-SparseIntArray,haiku,flash,0.2,0.30000000000000004,0.0,0.5,0.2
-SparseIntArray,haiku,haiku,0.2,0.19999999999999996,0.0,0.65,0.2
-SparseIntArray,haiku,pro,0.25,0.44999999999999996,0.0,0.3,0.25
-SparseIntArray,haiku,sonnet,0.2,0.44999999999999996,0.0,0.35,0.2
-SparseIntArray,pro,4.1,0.15,0.85,0.0,0.0,0.15
-SparseIntArray,pro,4.1 mini,0.0,1.0,,0.0,0.0
-SparseIntArray,pro,flash,0.1,0.9,0.0,0.0,0.1
-SparseIntArray,pro,haiku,0.2,0.75,0.0,0.05,0.2
-SparseIntArray,pro,pro,0.1,0.9,0.0,0.0,0.1
-SparseIntArray,pro,sonnet,0.05,0.95,0.0,0.0,0.05
-SparseIntArray,sonnet,4.1,0.05,0.9,0.0,0.05,0.05
-SparseIntArray,sonnet,4.1 mini,0.05,0.9,0.0,0.05,0.05
-SparseIntArray,sonnet,flash,0.1,0.8,0.0,0.1,0.1
-SparseIntArray,sonnet,haiku,0.05,0.9,0.0,0.05,0.05
-SparseIntArray,sonnet,pro,0.2,0.75,0.0,0.05,0.2
-SparseIntArray,sonnet,sonnet,0.05,0.9,0.0,0.05,0.05
-XmlElement,4.1,4.1,0.5,0.15000000000000002,0.0,0.5,0.5
-XmlElement,4.1,4.1 mini,0.6,0.09999999999999998,0.0,0.4,0.6
-XmlElement,4.1,flash,0.7,0.25,0.0,0.05,0.7
-XmlElement,4.1,haiku,0.55,0.09999999999999998,0.0,0.6,0.55
-XmlElement,4.1,pro,0.5,0.30000000000000004,0.0,0.2,0.5
-XmlElement,4.1,sonnet,0.35,0.050000000000000044,0.0,0.65,0.35
-XmlElement,4.1 mini,4.1,0.45,0.30000000000000004,0.0,0.4,0.45
-XmlElement,4.1 mini,4.1 mini,0.5,0.4,0.0,0.15,0.5
-XmlElement,4.1 mini,flash,0.45,0.4,0.0,0.2,0.45
-XmlElement,4.1 mini,haiku,0.25,0.19999999999999996,0.0,0.55,0.25
-XmlElement,4.1 mini,pro,0.45,0.44999999999999996,0.0,0.15,0.45
-XmlElement,4.1 mini,sonnet,0.15,0.050000000000000044,0.0,0.8,0.15
-XmlElement,flash,4.1,0.1,0.75,0.0,0.15,0.1
-XmlElement,flash,4.1 mini,0.1,0.7,0.0,0.2,0.1
-XmlElement,flash,flash,0.2,0.75,0.0,0.05,0.2
-XmlElement,flash,haiku,0.1,0.85,0.0,0.05,0.1
-XmlElement,flash,pro,0.2,0.8,0.0,0.0,0.2
-XmlElement,flash,sonnet,0.2,0.75,0.0,0.05,0.2
-XmlElement,haiku,4.1,0.1,0.15000000000000002,0.0,0.75,0.1
-XmlElement,haiku,4.1 mini,0.15,0.6,0.0,0.3,0.15
-XmlElement,haiku,flash,0.2,0.35,0.0,0.45,0.2
-XmlElement,haiku,haiku,0.15,0.09999999999999998,0.0,0.85,0.15
-XmlElement,haiku,pro,0.25,0.5,0.0,0.4,0.25
-XmlElement,haiku,sonnet,0.05,0.0,0.0,0.95,0.05
-XmlElement,pro,4.1,0.1,0.8,0.0,0.1,0.1
-XmlElement,pro,4.1 mini,0.05,0.9,0.0,0.05,0.05
-XmlElement,pro,flash,0.1,0.85,0.0,0.05,0.1
-XmlElement,pro,haiku,0.0,0.9,0.0,0.1,0.0
-XmlElement,pro,pro,0.15,0.85,0.0,0.0,0.15
-XmlElement,pro,sonnet,0.05,0.8,0.0,0.15,0.05
-XmlElement,sonnet,4.1,0.0,0.65,0.0,0.35,0.0
-XmlElement,sonnet,4.1 mini,0.05,0.95,0.0,0.0,0.05
-XmlElement,sonnet,flash,0.15,0.7,0.0,0.15,0.15
-XmlElement,sonnet,haiku,0.05,0.95,0.0,0.0,0.05
-XmlElement,sonnet,pro,0.25,0.6,0.0,0.15,0.25
-XmlElement,sonnet,sonnet,0.0,0.65,0.0,0.35,0.0
+ByteVector,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.2,0.25,0.2,0.75,0.3333333333333333
+ByteVector,claude-3-5-haiku-latest,claude-sonnet-4-0,0.35,0.050000000000000044,0.15789473684210525,0.625,0.4375
+ByteVector,claude-3-5-haiku-latest,gemini-2.5-flash,0.05,0.95,0.0,0.0,1.0
+ByteVector,claude-3-5-haiku-latest,gemini-2.5-pro,0.0,1.0,,,
+ByteVector,claude-3-5-haiku-latest,gpt-4.1,0.2,0.30000000000000004,0.6428571428571429,0.2,0.8
+ByteVector,claude-3-5-haiku-latest,gpt-4.1-mini,0.2,0.19999999999999996,0.625,0.3333333333333333,0.6666666666666666
+ByteVector,claude-sonnet-4-0,claude-3-5-haiku-latest,0.0,0.65,0.5714285714285714,1.0,0.0
+ByteVector,claude-sonnet-4-0,claude-sonnet-4-0,0.0,0.7,0.3333333333333333,1.0,0.0
+ByteVector,claude-sonnet-4-0,gemini-2.5-flash,0.0,1.0,,,
+ByteVector,claude-sonnet-4-0,gemini-2.5-pro,0.0,1.0,,,
+ByteVector,claude-sonnet-4-0,gpt-4.1,0.05,0.4,0.5833333333333334,0.8,0.2
+ByteVector,claude-sonnet-4-0,gpt-4.1-mini,0.1,0.5,0.3,0.7142857142857143,0.2857142857142857
+ByteVector,gemini-2.5-flash,claude-3-5-haiku-latest,0.0,1.0,,,
+ByteVector,gemini-2.5-flash,claude-sonnet-4-0,0.0,1.0,,,
+ByteVector,gemini-2.5-flash,gemini-2.5-flash,0.0,1.0,,,
+ByteVector,gemini-2.5-flash,gemini-2.5-pro,0.0,1.0,,,
+ByteVector,gemini-2.5-flash,gpt-4.1,0.0,1.0,,,
+ByteVector,gemini-2.5-flash,gpt-4.1-mini,0.0,1.0,,,
+ByteVector,gemini-2.5-pro,claude-3-5-haiku-latest,0.0,1.0,,,
+ByteVector,gemini-2.5-pro,claude-sonnet-4-0,0.0,1.0,,,
+ByteVector,gemini-2.5-pro,gemini-2.5-flash,0.0,1.0,,,
+ByteVector,gemini-2.5-pro,gemini-2.5-pro,0.0,1.0,,,
+ByteVector,gemini-2.5-pro,gpt-4.1,0.0,1.0,,,
+ByteVector,gemini-2.5-pro,gpt-4.1-mini,0.0,1.0,,,
+ByteVector,gpt-4.1,claude-3-5-haiku-latest,0.05,0.8,0.0,0.75,0.25
+ByteVector,gpt-4.1,claude-sonnet-4-0,0.1,0.9,0.0,0.0,1.0
+ByteVector,gpt-4.1,gemini-2.5-flash,0.0,1.0,,,
+ByteVector,gpt-4.1,gemini-2.5-pro,0.0,1.0,,,
+ByteVector,gpt-4.1,gpt-4.1,0.55,0.19999999999999996,0.0,0.3125,0.6875
+ByteVector,gpt-4.1,gpt-4.1-mini,0.45,0.15000000000000002,0.23529411764705882,0.46153846153846156,0.6923076923076923
+ByteVector,gpt-4.1-mini,claude-3-5-haiku-latest,0.25,0.30000000000000004,0.35714285714285715,0.8888888888888888,0.5555555555555556
+ByteVector,gpt-4.1-mini,claude-sonnet-4-0,0.25,0.050000000000000044,0.5263157894736842,0.5555555555555556,0.5555555555555556
+ByteVector,gpt-4.1-mini,gemini-2.5-flash,0.0,1.0,,,
+ByteVector,gpt-4.1-mini,gemini-2.5-pro,0.0,1.0,,,
+ByteVector,gpt-4.1-mini,gpt-4.1,0.4,0.5,0.2,0.375,1.0
+ByteVector,gpt-4.1-mini,gpt-4.1-mini,0.2,0.30000000000000004,0.7142857142857143,0.0,1.0
+CaseInsensitiveString,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.15,0.0,0.45,0.8181818181818182,0.2727272727272727
+CaseInsensitiveString,claude-3-5-haiku-latest,claude-sonnet-4-0,0.1,0.0,0.15,1.0,0.11764705882352941
+CaseInsensitiveString,claude-3-5-haiku-latest,gemini-2.5-flash,0.4,0.30000000000000004,0.35714285714285715,0.1111111111111111,0.8888888888888888
+CaseInsensitiveString,claude-3-5-haiku-latest,gemini-2.5-pro,0.3,0.25,0.4,0.4444444444444444,0.5555555555555556
+CaseInsensitiveString,claude-3-5-haiku-latest,gpt-4.1,0.15,0.09999999999999998,0.2777777777777778,0.8461538461538461,0.23076923076923078
+CaseInsensitiveString,claude-3-5-haiku-latest,gpt-4.1-mini,0.9,0.050000000000000044,0.631578947368421,0.5714285714285714,1.0
+CaseInsensitiveString,claude-sonnet-4-0,claude-3-5-haiku-latest,0.05,0.7,0.6666666666666666,0.5,0.5
+CaseInsensitiveString,claude-sonnet-4-0,claude-sonnet-4-0,0.05,0.09999999999999998,0.05555555555555555,0.9411764705882353,0.058823529411764705
+CaseInsensitiveString,claude-sonnet-4-0,gemini-2.5-flash,0.5,0.19999999999999996,0.3125,0.09090909090909091,0.9090909090909091
+CaseInsensitiveString,claude-sonnet-4-0,gemini-2.5-pro,0.5,0.25,0.3333333333333333,0.2,0.9
+CaseInsensitiveString,claude-sonnet-4-0,gpt-4.1,0.2,0.19999999999999996,0.3125,0.6363636363636364,0.36363636363636365
+CaseInsensitiveString,claude-sonnet-4-0,gpt-4.1-mini,0.15,0.4,0.3333333333333333,0.625,0.375
+CaseInsensitiveString,gemini-2.5-flash,claude-3-5-haiku-latest,0.15,0.050000000000000044,0.05263157894736842,0.8888888888888888,0.16666666666666666
+CaseInsensitiveString,gemini-2.5-flash,claude-sonnet-4-0,0.4,0.0,0.0,0.8,0.4
+CaseInsensitiveString,gemini-2.5-flash,gemini-2.5-flash,0.75,0.09999999999999998,0.2222222222222222,0.07142857142857142,0.9285714285714286
+CaseInsensitiveString,gemini-2.5-flash,gemini-2.5-pro,0.8,0.15000000000000002,0.058823529411764705,0.0625,0.9375
+CaseInsensitiveString,gemini-2.5-flash,gpt-4.1,0.5,0.0,0.15,0.5294117647058824,0.5882352941176471
+CaseInsensitiveString,gemini-2.5-flash,gpt-4.1-mini,0.35,0.050000000000000044,0.21052631578947367,0.6,0.4666666666666667
+CaseInsensitiveString,gemini-2.5-pro,claude-3-5-haiku-latest,0.2,0.25,0.13333333333333333,0.6923076923076923,0.3076923076923077
+CaseInsensitiveString,gemini-2.5-pro,claude-sonnet-4-0,0.15,0.25,0.06666666666666667,0.8571428571428571,0.21428571428571427
+CaseInsensitiveString,gemini-2.5-pro,gemini-2.5-flash,0.55,0.35,0.23076923076923078,0.1,0.9
+CaseInsensitiveString,gemini-2.5-pro,gemini-2.5-pro,0.6,0.25,0.13333333333333333,0.15384615384615385,0.8461538461538461
+CaseInsensitiveString,gemini-2.5-pro,gpt-4.1,0.35,0.4,0.08333333333333333,0.45454545454545453,0.6363636363636364
+CaseInsensitiveString,gemini-2.5-pro,gpt-4.1-mini,0.5,0.35,0.15384615384615385,0.7272727272727273,0.7272727272727273
+CaseInsensitiveString,gpt-4.1,claude-3-5-haiku-latest,0.05,0.050000000000000044,0.7368421052631579,0.8,0.2
+CaseInsensitiveString,gpt-4.1,claude-sonnet-4-0,0.1,0.0,0.6,0.75,0.25
+CaseInsensitiveString,gpt-4.1,gemini-2.5-flash,0.55,0.30000000000000004,0.5,0.14285714285714285,0.8571428571428571
+CaseInsensitiveString,gpt-4.1,gemini-2.5-pro,0.75,0.050000000000000044,0.5789473684210527,0.125,0.875
+CaseInsensitiveString,gpt-4.1,gpt-4.1,0.15,0.19999999999999996,0.6875,0.4,0.6
+CaseInsensitiveString,gpt-4.1,gpt-4.1-mini,0.25,0.09999999999999998,0.6666666666666666,0.5,0.6666666666666666
+CaseInsensitiveString,gpt-4.1-mini,claude-3-5-haiku-latest,0.3,0.6,0.125,0.5714285714285714,0.8571428571428571
+CaseInsensitiveString,gpt-4.1-mini,claude-sonnet-4-0,0.05,0.6,0.0,0.875,0.125
+CaseInsensitiveString,gpt-4.1-mini,gemini-2.5-flash,0.25,0.65,0.14285714285714285,0.16666666666666666,0.8333333333333334
+CaseInsensitiveString,gpt-4.1-mini,gemini-2.5-pro,0.25,0.75,0.0,0.0,1.0
+CaseInsensitiveString,gpt-4.1-mini,gpt-4.1,0.05,0.65,0.14285714285714285,0.8333333333333334,0.16666666666666666
+CaseInsensitiveString,gpt-4.1-mini,gpt-4.1-mini,0.2,0.35,0.07692307692307693,0.75,0.3333333333333333
+CharRange,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.2,0.30000000000000004,0.07142857142857142,0.7692307692307693,0.3076923076923077
+CharRange,claude-3-5-haiku-latest,claude-sonnet-4-0,0.3,0.30000000000000004,0.07142857142857142,0.6923076923076923,0.46153846153846156
+CharRange,claude-3-5-haiku-latest,gemini-2.5-flash,0.5,0.44999999999999996,0.18181818181818182,0.0,1.0
+CharRange,claude-3-5-haiku-latest,gemini-2.5-pro,0.5,0.35,0.3076923076923077,0.0,1.0
+CharRange,claude-3-5-haiku-latest,gpt-4.1,0.4,0.35,0.23076923076923078,0.4,0.7
+CharRange,claude-3-5-haiku-latest,gpt-4.1-mini,0.25,0.5,0.3,0.42857142857142855,0.5714285714285714
+CharRange,claude-sonnet-4-0,claude-3-5-haiku-latest,0.0,1.0,,,
+CharRange,claude-sonnet-4-0,claude-sonnet-4-0,0.0,1.0,,,
+CharRange,claude-sonnet-4-0,gemini-2.5-flash,0.35,0.65,0.0,0.0,1.0
+CharRange,claude-sonnet-4-0,gemini-2.5-pro,0.35,0.65,0.0,0.0,1.0
+CharRange,claude-sonnet-4-0,gpt-4.1,0.0,1.0,,,
+CharRange,claude-sonnet-4-0,gpt-4.1-mini,0.0,1.0,,,
+CharRange,gemini-2.5-flash,claude-3-5-haiku-latest,0.1,0.35,0.0,0.8461538461538461,0.15384615384615385
+CharRange,gemini-2.5-flash,claude-sonnet-4-0,0.35,0.44999999999999996,0.0,0.36363636363636365,0.6363636363636364
+CharRange,gemini-2.5-flash,gemini-2.5-flash,0.5,0.5,0.0,0.0,1.0
+CharRange,gemini-2.5-flash,gemini-2.5-pro,0.6,0.4,0.0,0.0,1.0
+CharRange,gemini-2.5-flash,gpt-4.1,0.35,0.5,0.1,0.2222222222222222,0.7777777777777778
+CharRange,gemini-2.5-flash,gpt-4.1-mini,0.45,0.44999999999999996,0.0,0.18181818181818182,0.8181818181818182
+CharRange,gemini-2.5-pro,claude-3-5-haiku-latest,0.15,0.44999999999999996,0.0,0.7272727272727273,0.2727272727272727
+CharRange,gemini-2.5-pro,claude-sonnet-4-0,0.35,0.55,0.0,0.3333333333333333,0.7777777777777778
+CharRange,gemini-2.5-pro,gemini-2.5-flash,0.35,0.65,0.0,0.0,1.0
+CharRange,gemini-2.5-pro,gemini-2.5-pro,0.45,0.5,0.1,0.0,1.0
+CharRange,gemini-2.5-pro,gpt-4.1,0.4,0.6,0.0,0.0,1.0
+CharRange,gemini-2.5-pro,gpt-4.1-mini,0.35,0.55,0.0,0.2222222222222222,0.7777777777777778
+CharRange,gpt-4.1,claude-3-5-haiku-latest,0.05,0.95,0.0,0.0,1.0
+CharRange,gpt-4.1,claude-sonnet-4-0,0.1,0.9,0.0,0.0,1.0
+CharRange,gpt-4.1,gemini-2.5-flash,0.2,0.8,0.0,0.0,1.0
+CharRange,gpt-4.1,gemini-2.5-pro,0.1,0.9,0.0,0.0,1.0
+CharRange,gpt-4.1,gpt-4.1,0.1,0.9,0.0,0.0,1.0
+CharRange,gpt-4.1,gpt-4.1-mini,0.15,0.85,0.0,0.0,1.0
+CharRange,gpt-4.1-mini,claude-3-5-haiku-latest,0.1,0.65,0.0,0.7142857142857143,0.2857142857142857
+CharRange,gpt-4.1-mini,claude-sonnet-4-0,0.15,0.8,0.0,0.75,0.75
+CharRange,gpt-4.1-mini,gemini-2.5-flash,0.25,0.75,0.0,0.0,1.0
+CharRange,gpt-4.1-mini,gemini-2.5-pro,0.25,0.75,0.0,0.0,1.0
+CharRange,gpt-4.1-mini,gpt-4.1,0.2,0.8,0.0,0.0,1.0
+CharRange,gpt-4.1-mini,gpt-4.1-mini,0.25,0.7,0.0,0.16666666666666666,0.8333333333333334
+Complex,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.05,0.75,0.8,0.0,1.0
+Complex,claude-3-5-haiku-latest,claude-sonnet-4-0,0.05,0.75,0.8,0.0,1.0
+Complex,claude-3-5-haiku-latest,gemini-2.5-flash,0.05,0.7,0.6666666666666666,0.5,0.5
+Complex,claude-3-5-haiku-latest,gemini-2.5-pro,0.1,0.55,0.7777777777777778,0.0,1.0
+Complex,claude-3-5-haiku-latest,gpt-4.1,0.2,0.7,0.5,0.3333333333333333,1.0
+Complex,claude-3-5-haiku-latest,gpt-4.1-mini,0.1,0.6,0.625,0.3333333333333333,0.6666666666666666
+Complex,claude-sonnet-4-0,claude-3-5-haiku-latest,0.0,0.8,0.5,1.0,0.0
+Complex,claude-sonnet-4-0,claude-sonnet-4-0,0.05,0.8,0.5,0.5,0.5
+Complex,claude-sonnet-4-0,gemini-2.5-flash,0.35,0.55,0.2222222222222222,0.0,1.0
+Complex,claude-sonnet-4-0,gemini-2.5-pro,0.45,0.55,0.0,0.0,1.0
+Complex,claude-sonnet-4-0,gpt-4.1,0.15,0.7,0.3333333333333333,0.25,0.75
+Complex,claude-sonnet-4-0,gpt-4.1-mini,0.2,0.8,0.25,0.0,1.0
+Complex,gemini-2.5-flash,claude-3-5-haiku-latest,0.5,0.15000000000000002,0.11764705882352941,0.4666666666666667,0.6
+Complex,gemini-2.5-flash,claude-sonnet-4-0,0.5,0.30000000000000004,0.07142857142857142,0.38461538461538464,0.6923076923076923
+Complex,gemini-2.5-flash,gemini-2.5-flash,0.75,0.25,0.06666666666666667,0.07142857142857142,1.0
+Complex,gemini-2.5-flash,gemini-2.5-pro,0.55,0.4,0.08333333333333333,0.09090909090909091,0.9090909090909091
+Complex,gemini-2.5-flash,gpt-4.1,0.7,0.25,0.13333333333333333,0.07692307692307693,0.9230769230769231
+Complex,gemini-2.5-flash,gpt-4.1-mini,0.45,0.5,0.0,0.1,0.9
+Complex,gemini-2.5-pro,claude-3-5-haiku-latest,0.2,0.6,0.0,0.5,0.5
+Complex,gemini-2.5-pro,claude-sonnet-4-0,0.3,0.55,0.0,0.3333333333333333,0.6666666666666666
+Complex,gemini-2.5-pro,gemini-2.5-flash,0.35,0.65,0.0,0.0,1.0
+Complex,gemini-2.5-pro,gemini-2.5-pro,0.45,0.55,0.0,0.0,1.0
+Complex,gemini-2.5-pro,gpt-4.1,0.3,0.7,0.16666666666666666,0.0,1.0
+Complex,gemini-2.5-pro,gpt-4.1-mini,0.45,0.55,0.1111111111111111,0.0,1.0
+Complex,gpt-4.1,claude-3-5-haiku-latest,0.4,0.44999999999999996,0.0,0.5454545454545454,0.7272727272727273
+Complex,gpt-4.1,claude-sonnet-4-0,0.25,0.5,0.0,0.5,0.5
+Complex,gpt-4.1,gemini-2.5-flash,0.25,0.75,0.0,0.0,1.0
+Complex,gpt-4.1,gemini-2.5-pro,0.3,0.7,0.0,0.0,1.0
+Complex,gpt-4.1,gpt-4.1,0.4,0.44999999999999996,0.18181818181818182,0.3333333333333333,0.8888888888888888
+Complex,gpt-4.1,gpt-4.1-mini,0.3,0.7,0.0,0.0,1.0
+Complex,gpt-4.1-mini,claude-3-5-haiku-latest,0.25,0.35,0.0,0.6153846153846154,0.38461538461538464
+Complex,gpt-4.1-mini,claude-sonnet-4-0,0.2,0.4,0.0,0.6666666666666666,0.3333333333333333
+Complex,gpt-4.1-mini,gemini-2.5-flash,0.4,0.55,0.0,0.2222222222222222,0.8888888888888888
+Complex,gpt-4.1-mini,gemini-2.5-pro,0.35,0.30000000000000004,0.0,0.5,0.5
+Complex,gpt-4.1-mini,gpt-4.1,0.45,0.30000000000000004,0.0,0.6428571428571429,0.6428571428571429
+Complex,gpt-4.1-mini,gpt-4.1-mini,0.4,0.6,0.0,0.5,1.0
+Document,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.0,0.0,0.5,1.0,0.0
+Document,claude-3-5-haiku-latest,claude-sonnet-4-0,0.0,0.050000000000000044,0.15789473684210525,1.0,0.0
+Document,claude-3-5-haiku-latest,gemini-2.5-flash,0.0,0.0,0.5,1.0,0.0
+Document,claude-3-5-haiku-latest,gemini-2.5-pro,0.05,0.0,0.2,0.9375,0.0625
+Document,claude-3-5-haiku-latest,gpt-4.1,0.05,0.0,0.3,0.9285714285714286,0.07142857142857142
+Document,claude-3-5-haiku-latest,gpt-4.1-mini,0.0,0.0,0.25,1.0,0.0
+Document,claude-sonnet-4-0,claude-3-5-haiku-latest,0.0,0.8,0.5,1.0,0.0
+Document,claude-sonnet-4-0,claude-sonnet-4-0,0.0,0.9,1.0,,
+Document,claude-sonnet-4-0,gemini-2.5-flash,0.05,0.65,0.42857142857142855,0.75,0.25
+Document,claude-sonnet-4-0,gemini-2.5-pro,0.05,0.5,0.5,0.8,0.2
+Document,claude-sonnet-4-0,gpt-4.1,0.0,0.85,1.0,,
+Document,claude-sonnet-4-0,gpt-4.1-mini,0.0,0.85,0.6666666666666666,1.0,0.0
+Document,gemini-2.5-flash,claude-3-5-haiku-latest,0.0,0.0,0.0,1.0,0.0
+Document,gemini-2.5-flash,claude-sonnet-4-0,0.0,0.0,0.0,1.0,0.0
+Document,gemini-2.5-flash,gemini-2.5-flash,0.0,0.0,0.0,1.0,0.0
+Document,gemini-2.5-flash,gemini-2.5-pro,0.0,0.0,0.0,1.0,0.0
+Document,gemini-2.5-flash,gpt-4.1,0.0,0.0,0.0,1.0,0.0
+Document,gemini-2.5-flash,gpt-4.1-mini,0.0,0.0,0.05,1.0,0.0
+Document,gemini-2.5-pro,claude-3-5-haiku-latest,0.0,0.35,0.07692307692307693,1.0,0.0
+Document,gemini-2.5-pro,claude-sonnet-4-0,0.0,0.35,0.3076923076923077,1.0,0.0
+Document,gemini-2.5-pro,gemini-2.5-flash,0.0,0.35,0.0,1.0,0.0
+Document,gemini-2.5-pro,gemini-2.5-pro,0.0,0.55,0.1111111111111111,1.0,0.0
+Document,gemini-2.5-pro,gpt-4.1,0.0,0.35,0.0,1.0,0.0
+Document,gemini-2.5-pro,gpt-4.1-mini,0.0,0.30000000000000004,0.0,1.0,0.0
+Document,gpt-4.1,claude-3-5-haiku-latest,0.0,0.75,0.2,1.0,0.0
+Document,gpt-4.1,claude-sonnet-4-0,0.1,0.55,0.0,0.7777777777777778,0.2222222222222222
+Document,gpt-4.1,gemini-2.5-flash,0.05,0.6,0.0,0.875,0.125
+Document,gpt-4.1,gemini-2.5-pro,0.1,0.44999999999999996,0.0,0.8181818181818182,0.18181818181818182
+Document,gpt-4.1,gpt-4.1,0.05,0.6,0.0,0.875,0.125
+Document,gpt-4.1,gpt-4.1-mini,0.1,0.4,0.0,0.9166666666666666,0.16666666666666666
+Document,gpt-4.1-mini,claude-3-5-haiku-latest,0.0,0.09999999999999998,0.1111111111111111,1.0,0.0
+Document,gpt-4.1-mini,claude-sonnet-4-0,0.05,0.15000000000000002,0.29411764705882354,0.9166666666666666,0.08333333333333333
+Document,gpt-4.1-mini,gemini-2.5-flash,0.0,0.09999999999999998,0.05555555555555555,1.0,0.0
+Document,gpt-4.1-mini,gemini-2.5-pro,0.0,0.050000000000000044,0.15789473684210525,1.0,0.0
+Document,gpt-4.1-mini,gpt-4.1,0.0,0.050000000000000044,0.15789473684210525,1.0,0.0
+Document,gpt-4.1-mini,gpt-4.1-mini,0.0,0.09999999999999998,0.05555555555555555,1.0,0.0
+IntHashMap,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.0,0.35,0.6923076923076923,1.0,0.0
+IntHashMap,claude-3-5-haiku-latest,claude-sonnet-4-0,0.0,0.30000000000000004,0.6428571428571429,1.0,0.0
+IntHashMap,claude-3-5-haiku-latest,gemini-2.5-flash,0.35,0.6,0.875,0.0,1.0
+IntHashMap,claude-3-5-haiku-latest,gemini-2.5-pro,0.05,0.30000000000000004,0.9285714285714286,0.0,1.0
+IntHashMap,claude-3-5-haiku-latest,gpt-4.1,0.1,0.19999999999999996,0.875,0.0,1.0
+IntHashMap,claude-3-5-haiku-latest,gpt-4.1-mini,0.0,0.35,1.0,,
+IntHashMap,claude-sonnet-4-0,claude-3-5-haiku-latest,0.0,0.5,0.4,1.0,0.0
+IntHashMap,claude-sonnet-4-0,claude-sonnet-4-0,0.05,0.15000000000000002,0.35294117647058826,0.9090909090909091,0.09090909090909091
+IntHashMap,claude-sonnet-4-0,gemini-2.5-flash,0.45,0.050000000000000044,0.3684210526315789,0.4166666666666667,0.6666666666666666
+IntHashMap,claude-sonnet-4-0,gemini-2.5-pro,0.35,0.09999999999999998,0.4444444444444444,0.4,0.6
+IntHashMap,claude-sonnet-4-0,gpt-4.1,0.05,0.55,0.4444444444444444,0.8,0.2
+IntHashMap,claude-sonnet-4-0,gpt-4.1-mini,0.05,0.44999999999999996,0.2727272727272727,0.875,0.125
+IntHashMap,gemini-2.5-flash,claude-3-5-haiku-latest,0.15,0.35,0.07692307692307693,0.75,0.25
+IntHashMap,gemini-2.5-flash,claude-sonnet-4-0,0.2,0.30000000000000004,0.07142857142857142,0.6923076923076923,0.3076923076923077
+IntHashMap,gemini-2.5-flash,gemini-2.5-flash,0.6,0.35,0.23076923076923078,0.0,1.0
+IntHashMap,gemini-2.5-flash,gemini-2.5-pro,0.55,0.30000000000000004,0.07142857142857142,0.3076923076923077,0.7692307692307693
+IntHashMap,gemini-2.5-flash,gpt-4.1,0.25,0.35,0.0,0.6153846153846154,0.38461538461538464
+IntHashMap,gemini-2.5-flash,gpt-4.1-mini,0.2,0.35,0.0,0.6923076923076923,0.3076923076923077
+IntHashMap,gemini-2.5-pro,claude-3-5-haiku-latest,0.0,0.9,0.0,1.0,0.0
+IntHashMap,gemini-2.5-pro,claude-sonnet-4-0,0.0,0.95,0.0,1.0,0.0
+IntHashMap,gemini-2.5-pro,gemini-2.5-flash,0.0,0.95,0.0,1.0,0.0
+IntHashMap,gemini-2.5-pro,gemini-2.5-pro,0.0,1.0,,,
+IntHashMap,gemini-2.5-pro,gpt-4.1,0.0,0.9,0.0,1.0,0.0
+IntHashMap,gemini-2.5-pro,gpt-4.1-mini,0.05,0.85,0.0,0.6666666666666666,0.3333333333333333
+IntHashMap,gpt-4.1,claude-3-5-haiku-latest,0.15,0.15000000000000002,0.23529411764705882,0.8461538461538461,0.23076923076923078
+IntHashMap,gpt-4.1,claude-sonnet-4-0,0.2,0.15000000000000002,0.23529411764705882,0.8461538461538461,0.3076923076923077
+IntHashMap,gpt-4.1,gemini-2.5-flash,0.65,0.050000000000000044,0.21052631578947367,0.2,0.8666666666666667
+IntHashMap,gpt-4.1,gemini-2.5-pro,0.5,0.19999999999999996,0.3125,0.09090909090909091,0.9090909090909091
+IntHashMap,gpt-4.1,gpt-4.1,0.4,0.15000000000000002,0.47058823529411764,0.2222222222222222,0.8888888888888888
+IntHashMap,gpt-4.1,gpt-4.1-mini,0.2,0.050000000000000044,0.2631578947368421,0.7142857142857143,0.2857142857142857
+IntHashMap,gpt-4.1-mini,claude-3-5-haiku-latest,0.2,0.0,0.4,0.9166666666666666,0.3333333333333333
+IntHashMap,gpt-4.1-mini,claude-sonnet-4-0,0.05,0.09999999999999998,0.16666666666666666,0.9333333333333333,0.06666666666666667
+IntHashMap,gpt-4.1-mini,gemini-2.5-flash,0.45,0.09999999999999998,0.5,0.1111111111111111,1.0
+IntHashMap,gpt-4.1-mini,gemini-2.5-pro,0.35,0.19999999999999996,0.5,0.125,0.875
+IntHashMap,gpt-4.1-mini,gpt-4.1,0.15,0.25,0.5333333333333333,0.5714285714285714,0.42857142857142855
+IntHashMap,gpt-4.1-mini,gpt-4.1-mini,0.25,0.19999999999999996,0.375,0.6,0.4
+Option,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.0,1.0,,,
+Option,claude-3-5-haiku-latest,claude-sonnet-4-0,0.0,1.0,,,
+Option,claude-3-5-haiku-latest,gemini-2.5-flash,0.0,1.0,,,
+Option,claude-3-5-haiku-latest,gemini-2.5-pro,0.0,1.0,,,
+Option,claude-3-5-haiku-latest,gpt-4.1,0.0,1.0,,,
+Option,claude-3-5-haiku-latest,gpt-4.1-mini,0.0,1.0,,,
+Option,gemini-2.5-flash,claude-3-5-haiku-latest,0.0,1.0,,,
+Option,gemini-2.5-flash,claude-sonnet-4-0,0.0,1.0,,,
+Option,gemini-2.5-flash,gemini-2.5-flash,0.0,1.0,,,
+Option,gemini-2.5-flash,gemini-2.5-pro,0.0,1.0,,,
+Option,gemini-2.5-flash,gpt-4.1,0.0,1.0,,,
+Option,gemini-2.5-flash,gpt-4.1-mini,0.0,1.0,,,
+Option,gemini-2.5-pro,claude-3-5-haiku-latest,0.0,1.0,,,
+Option,gemini-2.5-pro,claude-sonnet-4-0,0.0,1.0,,,
+Option,gemini-2.5-pro,gemini-2.5-flash,0.0,1.0,,,
+Option,gemini-2.5-pro,gemini-2.5-pro,0.0,1.0,,,
+Option,gemini-2.5-pro,gpt-4.1,0.0,1.0,,,
+Option,gemini-2.5-pro,gpt-4.1-mini,0.0,1.0,,,
+Option,gpt-4.1,claude-3-5-haiku-latest,0.5,0.0,0.0,0.6,0.5
+Option,gpt-4.1,claude-sonnet-4-0,0.2,0.0,0.05,0.8421052631578947,0.21052631578947367
+Option,gpt-4.1,gemini-2.5-flash,0.95,0.0,0.1,0.0,1.0
+Option,gpt-4.1,gemini-2.5-pro,0.85,0.0,0.1,0.1111111111111111,0.8888888888888888
+Option,gpt-4.1,gpt-4.1,0.35,0.0,0.05,0.631578947368421,0.3684210526315789
+Option,gpt-4.1,gpt-4.1-mini,0.5,0.0,0.0,0.55,0.5
+Option,gpt-4.1-mini,claude-3-5-haiku-latest,0.2,0.15000000000000002,0.23529411764705882,0.6923076923076923,0.3076923076923077
+Option,gpt-4.1-mini,claude-sonnet-4-0,0.25,0.19999999999999996,0.125,0.7142857142857143,0.35714285714285715
+Option,gpt-4.1-mini,gemini-2.5-flash,0.35,0.4,0.3333333333333333,0.25,0.75
+Option,gpt-4.1-mini,gemini-2.5-pro,0.4,0.6,0.125,0.0,1.0
+Option,gpt-4.1-mini,gpt-4.1,0.35,0.35,0.15384615384615385,0.6363636363636364,0.5454545454545454
+Option,gpt-4.1-mini,gpt-4.1-mini,0.25,0.5,0.1,0.5555555555555556,0.5555555555555556
+Rational,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.3,0.19999999999999996,0.25,0.8333333333333334,0.5
+Rational,claude-3-5-haiku-latest,claude-sonnet-4-0,0.15,0.25,0.2,0.75,0.25
+Rational,claude-3-5-haiku-latest,gemini-2.5-flash,0.45,0.25,0.13333333333333333,0.38461538461538464,0.6923076923076923
+Rational,claude-3-5-haiku-latest,gemini-2.5-pro,0.3,0.30000000000000004,0.21428571428571427,0.45454545454545453,0.5454545454545454
+Rational,claude-3-5-haiku-latest,gpt-4.1,0.35,0.44999999999999996,0.2727272727272727,0.25,0.75
+Rational,claude-3-5-haiku-latest,gpt-4.1-mini,0.5,0.25,0.26666666666666666,0.5454545454545454,0.9090909090909091
+Rational,claude-sonnet-4-0,claude-3-5-haiku-latest,0.05,0.9,0.0,0.5,0.5
+Rational,claude-sonnet-4-0,claude-sonnet-4-0,0.0,0.95,0.0,1.0,0.0
+Rational,claude-sonnet-4-0,gemini-2.5-flash,0.05,0.85,0.3333333333333333,0.5,0.5
+Rational,claude-sonnet-4-0,gemini-2.5-pro,0.15,0.75,0.2,0.25,0.75
+Rational,claude-sonnet-4-0,gpt-4.1,0.0,0.9,0.5,1.0,0.0
+Rational,claude-sonnet-4-0,gpt-4.1-mini,0.05,0.9,0.0,0.5,0.5
+Rational,gemini-2.5-flash,claude-3-5-haiku-latest,0.4,0.5,0.0,0.3,0.8
+Rational,gemini-2.5-flash,claude-sonnet-4-0,0.35,0.25,0.0,0.6,0.4666666666666667
+Rational,gemini-2.5-flash,gemini-2.5-flash,0.45,0.55,0.0,0.0,1.0
+Rational,gemini-2.5-flash,gemini-2.5-pro,0.5,0.5,0.0,0.0,1.0
+Rational,gemini-2.5-flash,gpt-4.1,0.25,0.7,0.0,0.16666666666666666,0.8333333333333334
+Rational,gemini-2.5-flash,gpt-4.1-mini,0.35,0.6,0.0,0.125,0.875
+Rational,gemini-2.5-pro,claude-3-5-haiku-latest,0.25,0.55,0.0,0.4444444444444444,0.5555555555555556
+Rational,gemini-2.5-pro,claude-sonnet-4-0,0.3,0.5,0.0,0.4,0.6
+Rational,gemini-2.5-pro,gemini-2.5-flash,0.4,0.55,0.1111111111111111,0.0,1.0
+Rational,gemini-2.5-pro,gemini-2.5-pro,0.55,0.44999999999999996,0.0,0.0,1.0
+Rational,gemini-2.5-pro,gpt-4.1,0.3,0.65,0.14285714285714285,0.0,1.0
+Rational,gemini-2.5-pro,gpt-4.1-mini,0.35,0.6,0.0,0.125,0.875
+Rational,gpt-4.1,claude-3-5-haiku-latest,0.05,0.0,0.0,0.95,0.05
+Rational,gpt-4.1,claude-sonnet-4-0,0.05,0.0,0.0,0.95,0.05
+Rational,gpt-4.1,gemini-2.5-flash,0.35,0.6,0.125,0.0,1.0
+Rational,gpt-4.1,gemini-2.5-pro,0.25,0.6,0.25,0.16666666666666666,0.8333333333333334
+Rational,gpt-4.1,gpt-4.1,0.5,0.4,0.0,0.5,0.8333333333333334
+Rational,gpt-4.1,gpt-4.1-mini,0.25,0.7,0.0,0.3333333333333333,0.8333333333333334
+Rational,gpt-4.1-mini,claude-3-5-haiku-latest,0.3,0.4,0.08333333333333333,0.5454545454545454,0.5454545454545454
+Rational,gpt-4.1-mini,claude-sonnet-4-0,0.15,0.0,0.05,0.8421052631578947,0.15789473684210525
+Rational,gpt-4.1-mini,gemini-2.5-flash,0.3,0.4,0.16666666666666666,0.4,0.6
+Rational,gpt-4.1-mini,gemini-2.5-pro,0.5,0.4,0.08333333333333333,0.18181818181818182,0.9090909090909091
+Rational,gpt-4.1-mini,gpt-4.1,0.55,0.19999999999999996,0.0,0.625,0.6875
+Rational,gpt-4.1-mini,gpt-4.1-mini,0.2,0.4,0.08333333333333333,0.6363636363636364,0.36363636363636365
+SparseIntArray,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.2,0.19999999999999996,0.3125,0.7272727272727273,0.36363636363636365
+SparseIntArray,claude-3-5-haiku-latest,claude-sonnet-4-0,0.2,0.44999999999999996,0.2727272727272727,0.5,0.5
+SparseIntArray,claude-3-5-haiku-latest,gemini-2.5-flash,0.2,0.30000000000000004,0.21428571428571427,0.6363636363636364,0.36363636363636365
+SparseIntArray,claude-3-5-haiku-latest,gemini-2.5-pro,0.25,0.44999999999999996,0.18181818181818182,0.4444444444444444,0.5555555555555556
+SparseIntArray,claude-3-5-haiku-latest,gpt-4.1,0.55,0.25,0.2,0.25,0.9166666666666666
+SparseIntArray,claude-3-5-haiku-latest,gpt-4.1-mini,0.15,0.25,0.5333333333333333,0.7142857142857143,0.2857142857142857
+SparseIntArray,claude-sonnet-4-0,claude-3-5-haiku-latest,0.05,0.9,0.0,0.5,0.5
+SparseIntArray,claude-sonnet-4-0,claude-sonnet-4-0,0.05,0.9,0.0,0.5,0.5
+SparseIntArray,claude-sonnet-4-0,gemini-2.5-flash,0.1,0.8,0.5,0.0,1.0
+SparseIntArray,claude-sonnet-4-0,gemini-2.5-pro,0.2,0.75,0.2,0.0,1.0
+SparseIntArray,claude-sonnet-4-0,gpt-4.1,0.05,0.9,0.0,0.5,0.5
+SparseIntArray,claude-sonnet-4-0,gpt-4.1-mini,0.05,0.9,0.0,0.5,0.5
+SparseIntArray,gemini-2.5-flash,claude-3-5-haiku-latest,0.35,0.65,0.0,0.2857142857142857,1.0
+SparseIntArray,gemini-2.5-flash,claude-sonnet-4-0,0.2,0.65,0.0,0.42857142857142855,0.5714285714285714
+SparseIntArray,gemini-2.5-flash,gemini-2.5-flash,0.4,0.55,0.0,0.1111111111111111,0.8888888888888888
+SparseIntArray,gemini-2.5-flash,gemini-2.5-pro,0.15,0.85,0.0,0.0,1.0
+SparseIntArray,gemini-2.5-flash,gpt-4.1,0.35,0.65,0.0,0.0,1.0
+SparseIntArray,gemini-2.5-flash,gpt-4.1-mini,0.25,0.75,0.0,0.0,1.0
+SparseIntArray,gemini-2.5-pro,claude-3-5-haiku-latest,0.2,0.75,0.0,0.2,0.8
+SparseIntArray,gemini-2.5-pro,claude-sonnet-4-0,0.05,0.95,0.0,0.0,1.0
+SparseIntArray,gemini-2.5-pro,gemini-2.5-flash,0.1,0.9,0.0,0.0,1.0
+SparseIntArray,gemini-2.5-pro,gemini-2.5-pro,0.1,0.9,0.0,0.0,1.0
+SparseIntArray,gemini-2.5-pro,gpt-4.1,0.15,0.85,0.0,0.0,1.0
+SparseIntArray,gemini-2.5-pro,gpt-4.1-mini,0.0,1.0,,,
+SparseIntArray,gpt-4.1,claude-3-5-haiku-latest,0.55,0.19999999999999996,0.0625,0.5333333333333333,0.7333333333333333
+SparseIntArray,gpt-4.1,claude-sonnet-4-0,0.25,0.7,0.0,0.16666666666666666,0.8333333333333334
+SparseIntArray,gpt-4.1,gemini-2.5-flash,0.45,0.44999999999999996,0.09090909090909091,0.1,0.9
+SparseIntArray,gpt-4.1,gemini-2.5-pro,0.35,0.55,0.1111111111111111,0.25,0.875
+SparseIntArray,gpt-4.1,gpt-4.1,0.2,0.7,0.16666666666666666,0.2,0.8
+SparseIntArray,gpt-4.1,gpt-4.1-mini,0.2,0.55,0.1111111111111111,0.5,0.5
+SparseIntArray,gpt-4.1-mini,claude-3-5-haiku-latest,0.3,0.30000000000000004,0.21428571428571427,0.6363636363636364,0.5454545454545454
+SparseIntArray,gpt-4.1-mini,claude-sonnet-4-0,0.4,0.050000000000000044,0.2631578947368421,0.6428571428571429,0.5714285714285714
+SparseIntArray,gpt-4.1-mini,gemini-2.5-flash,0.4,0.30000000000000004,0.35714285714285715,0.3333333333333333,0.7777777777777778
+SparseIntArray,gpt-4.1-mini,gemini-2.5-pro,0.4,0.19999999999999996,0.25,0.3333333333333333,0.6666666666666666
+SparseIntArray,gpt-4.1-mini,gpt-4.1,0.3,0.35,0.23076923076923078,0.4,0.6
+SparseIntArray,gpt-4.1-mini,gpt-4.1-mini,0.45,0.25,0.3333333333333333,0.2,0.9
+XmlElement,claude-3-5-haiku-latest,claude-3-5-haiku-latest,0.15,0.09999999999999998,0.3888888888888889,0.9090909090909091,0.09090909090909091
+XmlElement,claude-3-5-haiku-latest,claude-sonnet-4-0,0.05,0.0,0.35,0.9230769230769231,0.07692307692307693
+XmlElement,claude-3-5-haiku-latest,gemini-2.5-flash,0.2,0.35,0.6153846153846154,0.2,0.8
+XmlElement,claude-3-5-haiku-latest,gemini-2.5-pro,0.25,0.5,0.9,0.0,1.0
+XmlElement,claude-3-5-haiku-latest,gpt-4.1,0.1,0.15000000000000002,0.23529411764705882,0.8461538461538461,0.15384615384615385
+XmlElement,claude-3-5-haiku-latest,gpt-4.1-mini,0.15,0.6,0.625,0.3333333333333333,1.0
+XmlElement,claude-sonnet-4-0,claude-3-5-haiku-latest,0.05,0.95,0.0,0.0,1.0
+XmlElement,claude-sonnet-4-0,claude-sonnet-4-0,0.0,0.65,0.0,1.0,0.0
+XmlElement,claude-sonnet-4-0,gemini-2.5-flash,0.15,0.7,0.5,0.0,1.0
+XmlElement,claude-sonnet-4-0,gemini-2.5-pro,0.25,0.6,0.5,0.0,1.0
+XmlElement,claude-sonnet-4-0,gpt-4.1,0.0,0.65,0.0,1.0,0.0
+XmlElement,claude-sonnet-4-0,gpt-4.1-mini,0.05,0.95,0.0,0.0,1.0
+XmlElement,gemini-2.5-flash,claude-3-5-haiku-latest,0.1,0.85,0.3333333333333333,0.0,1.0
+XmlElement,gemini-2.5-flash,claude-sonnet-4-0,0.2,0.75,0.0,0.2,0.8
+XmlElement,gemini-2.5-flash,gemini-2.5-flash,0.2,0.75,0.4,0.0,1.0
+XmlElement,gemini-2.5-flash,gemini-2.5-pro,0.2,0.8,0.0,0.0,1.0
+XmlElement,gemini-2.5-flash,gpt-4.1,0.1,0.75,0.6,0.0,1.0
+XmlElement,gemini-2.5-flash,gpt-4.1-mini,0.1,0.7,0.16666666666666666,0.6,0.4
+XmlElement,gemini-2.5-pro,claude-3-5-haiku-latest,0.0,0.9,0.0,1.0,0.0
+XmlElement,gemini-2.5-pro,claude-sonnet-4-0,0.05,0.8,0.0,0.75,0.25
+XmlElement,gemini-2.5-pro,gemini-2.5-flash,0.1,0.85,0.0,0.3333333333333333,0.6666666666666666
+XmlElement,gemini-2.5-pro,gemini-2.5-pro,0.15,0.85,0.0,0.0,1.0
+XmlElement,gemini-2.5-pro,gpt-4.1,0.1,0.8,0.25,0.6666666666666666,0.3333333333333333
+XmlElement,gemini-2.5-pro,gpt-4.1-mini,0.05,0.9,0.0,0.5,0.5
+XmlElement,gpt-4.1,claude-3-5-haiku-latest,0.55,0.09999999999999998,0.4444444444444444,0.5,0.8
+XmlElement,gpt-4.1,claude-sonnet-4-0,0.35,0.050000000000000044,0.3684210526315789,0.5,0.5833333333333334
+XmlElement,gpt-4.1,gemini-2.5-flash,0.7,0.25,0.26666666666666666,0.09090909090909091,0.9090909090909091
+XmlElement,gpt-4.1,gemini-2.5-pro,0.5,0.30000000000000004,0.21428571428571427,0.18181818181818182,0.8181818181818182
+XmlElement,gpt-4.1,gpt-4.1,0.5,0.15000000000000002,0.17647058823529413,0.5714285714285714,0.6428571428571429
+XmlElement,gpt-4.1,gpt-4.1-mini,0.6,0.09999999999999998,0.16666666666666666,0.3333333333333333,0.8
+XmlElement,gpt-4.1-mini,claude-3-5-haiku-latest,0.25,0.19999999999999996,0.25,0.75,0.25
+XmlElement,gpt-4.1-mini,claude-sonnet-4-0,0.15,0.050000000000000044,0.15789473684210525,0.8125,0.1875
+XmlElement,gpt-4.1-mini,gemini-2.5-flash,0.45,0.4,0.3333333333333333,0.25,0.875
+XmlElement,gpt-4.1-mini,gemini-2.5-pro,0.45,0.44999999999999996,0.36363636363636365,0.0,1.0
+XmlElement,gpt-4.1-mini,gpt-4.1,0.45,0.30000000000000004,0.14285714285714285,0.5,0.75
+XmlElement,gpt-4.1-mini,gpt-4.1-mini,0.5,0.4,0.16666666666666666,0.2,0.9
