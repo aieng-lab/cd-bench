@@ -1,0 +1,61 @@
+,equivalent,annotation
+11587,False,Arithmetic operator replacement
+11482,False,Variable replacement operator
+11681,False,Literal value replacement
+4791,False,Statement deletion operator
+6588,False,Unary operator replacement (negation)
+6628,False,Arithmetic operator replacement
+7128,False,Arithmetic operator replacement
+6968,False,Relational operator replacement
+2610,False,Arithmetic operator replacement
+9824,False,Increment / add constant
+3840,True,Mask number
+12249,False,Switch method calls
+1337,False,Remove terms from arithmetic expression
+4265,False,Literal value replacement
+12417,False,Method call replacement
+7014,True,Relational operator replacement
+9670,False,Relational operator replacement
+11121,False,Relational operator replacement
+876,False,Increment / add constant
+2209,True,Replace == with equals
+5033,True,Relational operator replacement
+12215,False,Remove conditional
+4447,False,Increment / add constant
+4220,False,Drop condition / Conditional operator replacement (if(true))
+12075,False,Statement deletion
+4534,True,Replace method call with constant
+7215,False,Method call replacement
+3616,False,Relational operator replacement
+189,False,Arithmetic operator replacement (second order)
+7158,False,Relational operator replacement
+6641,False,Relational operator replacement
+1352,False,Insert conditional
+4676,False,Statement deletion / remove method call
+6799,True,Relational operator replacement
+7008,False,Unary operator insertion / negation
+7013,False,Variable replacement operator second order / variable swap
+6821,False,Arithmetic operator replacement
+11684,False,Drop expression
+3705,False,Literal insertion operator
+2667,False,Statement deletion operator
+7964,True,String concatenation (equivalent)
+4620,True,Insert conditional behaviour (may be equivalent depending on what count is?)
+11731,False,Variable replacement operator
+3531,False,Insert bit shift
+6783,False,Relational operator replacement and unary operator insertion and unary operator deletion (or unary operator swap)
+7918,False,Statement deletion operator
+4918,False,"Insert conditional behaviour (may be equivalent depending how ""description"" is used, but likely not equivalent)"
+11342,False,Relational operator replacement
+4308,True,"Relational operator replacement x2, insert conditional behaviour x2"
+4452,False,Method call replacement operator
+4339,True,"Statement deletion, but may be more if this is within a loop (not enough context)"
+3934,True,Equivalent mutant: Insert maximum operator
+1714,True,Attribute replacement operator
+11974,False,Empty diff?
+3110,True,Shift operator replacement
+11491,False,Drop expression / arithmetic operator deletion
+6941,False,Arithmetic operator replacement
+12148,False,Statement deletion
+10027,True,Insert conditional behaviour
+11326,False,Relational operator replacement
