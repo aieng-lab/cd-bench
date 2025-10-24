@@ -1,0 +1,61 @@
+,equivalent,annotation
+11587,False,Arithmetic operator change
+11482,False,Variable substitution
+11681,False,Boolean negation
+4791,False,Remove method call
+6588,False,Double negation
+6628,False,Arithmetic operator change
+7128,False,Arithmetic operator change
+6968,False,Negation of conditional
+2610,False,Arithmetic operator change
+9824,False,Add constant
+3840,True,Add masking
+12249,False,Switch parameters between subsequent function calls
+1337,False,Remove terms from arithmetic operations
+4265,False,Boolean literal negation
+12417,False,Method call substitution
+7014,True,Change conditional boundary
+9670,False,Negation of conditional
+11121,False,Change conditional boundary
+876,False,Add constant
+2209,True,Replace == with equals
+5033,True,Negation of conditional
+12215,False,Drop condition
+4447,False,Add constant
+4220,False,Drop handling of empty data structure
+12075,False,Drop early return
+4534,True,Replace method call with literal
+7215,False,Method call substitution
+3616,False,Negation of conditional
+189,False,Arithmetic operator change
+7158,False,Negation of conditional
+6641,False,Change conditional boundary
+1352,False,Add conditional and change behavior
+4676,False,Drop method call
+6799,True,Change conditional boundary
+7008,False,Arithmetic operator change
+7013,False,Reorder terms in arithmetic operation
+6821,False,Arithmetic operator change
+11684,False,Remove terms from arithmetic operations
+3705,False,Add constant
+2667,False,Drop writing to variable
+7964,True,Add empty string (equivalent)
+4620,True,Add conditional without behavior change (equivalent)
+11731,False,Variable substitution
+3531,False,Add byte shift
+6783,False,Change pre-increment to post increment (equivalent); Change conditional boundary
+7918,False,Drop method call
+4918,False,Add null handling
+11342,False,Negation of conditional
+4308,True,Negation of conditional; Add conditional and change behavior; Add early return
+4452,False,Method call substitution
+4339,True,Replace early return with break (equivalent)
+3934,True,Add logic to handle negative values for array index (equivalent)
+1714,True,Variable substitution
+11974,False,Empty diff
+3110,True,Replace unsigned shift with signed shift (equivalent)
+11491,False,Add term to arithmetic operation
+6941,False,Arithmetic operator change
+12148,False,Drop early return
+10027,True,Add conditional without behavior change (equivalent)
+11326,False,Change conditional boundary
