@@ -1,0 +1,301 @@
+mutant_id,equivalent,label,annotation
+11587,False,Replace arithmetic operator,
+11482,False,Replace variable,
+11681,False,Replace literal value (boolean),
+4791,False,Delete statement (method call),
+6588,False,Other,Delete unary operator (numeric negation)
+6628,False,Replace arithmetic operator,
+7128,False,Replace arithmetic operator,
+6968,False,Replace conditional operator (negation),
+2610,False,Replace arithmetic operator,
+9824,False,Insert literal (numeric),
+3840,True,Insert masking,
+12249,False,Other,Replace method call with other method (2nd order)
+1337,False,Other,Delete condition from logical expression
+4265,False,Replace literal value (boolean),
+12417,False,Replace method call with other method,
+7014,True,Replace conditional operator (boundary),
+9670,False,Replace conditional operator (negation),
+11121,False,Replace conditional operator (boundary),
+876,False,Insert literal (numeric),
+2209,True,Replace == with equals,
+5033,True,Replace conditional operator (negation),
+12215,False,Other,Delete condition from logical expression
+4447,False,Insert literal (numeric),
+4220,False,Higher-order: Delete conditional behavior,
+12075,False,Delete statement (control flow),
+4534,True,Replace method call with literal,
+7215,False,Replace method call with other method,
+3616,False,Replace conditional operator (negation),
+189,False,Replace arithmetic operator (2nd order),
+7158,False,Replace conditional operator (negation),
+6641,False,Replace conditional operator (boundary),
+1352,False,Higher-order: Insert conditional behavior,
+4676,False,Delete statement (method call),
+6799,True,Replace conditional operator (boundary),
+7008,False,Other,Delete unary operator (numeric negation)
+7013,False,Replace variable (2nd order),
+6821,False,Replace arithmetic operator,
+11684,False,Delete terms from arithmetic expression,
+3705,False,Insert literal (numeric),
+2667,False,Higher-order: Delete conditional behavior,
+7964,True,Insert concatenation with empty string,
+4620,True,Higher-order: Insert conditional behavior,
+11731,False,Delete statement (method call),
+3531,False,Insert bit shift,
+6783,False,"Higher-order: Replace Replace pre-increment/decrement with post-increment/decrement, Replace conditional operator (boundary)",
+7918,False,Delete statement (method call),
+4918,False,Higher-order: Insert conditional behavior,
+11342,False,Replace conditional operator (negation),
+4308,True,"Higher-order: Replace conditional operator (negation), Insert conditional behavior",
+4452,False,Replace method call with other method,
+4339,True,Other,Replace jump statement
+3934,True,Insert method call,
+1714,True,Replace variable,
+11974,False,Empty diff,
+3110,True,Replace bit shift operator,
+11491,False,Delete terms from arithmetic expression,
+6941,False,Replace conditional operator (negation),
+12148,False,Delete statement (method call),
+10027,True,Higher-order: Insert conditional behavior,
+11326,False,Replace conditional operator (boundary),
+11934,False,Replace literal value (boolean),
+11652,False,Replace literal value (boolean),
+6685,False,Replace arithmetic operator,
+12513,False,Other,Delete unary operator (numeric negation)
+10316,False,Other,Replace literal value (numeric)
+4983,True,Other,Insert comments
+7272,True,Other,Higher-order: Replace conditional return of boolean literal with return of boolean expression
+11993,False,Other,Replace conditional operator (and/or)
+4661,False,Replace arithmetic operator,
+8661,False,Replace conditional operator (negation),
+8025,False,Delete statement (method call),
+3018,False,Insert masking,
+12428,False,Higher-order: Insert conditional behavior,
+12197,False,Empty diff,
+5923,False,Insert literal (numeric),
+8502,False,Insert literal (numeric),
+1049,False,Other,Insert method call
+4453,False,Other,Replace literal value (string)
+3543,False,Replace conditional operator (boundary),
+2251,True,Replace == with equals,
+12206,False,Other,Replace literal value (numeric)
+6849,False,Other,"Replace conditional operator (boundary, 2nd order)"
+3087,True,Insert masking,
+8804,False,Other,Insert comments
+10070,False,Higher-order: Delete conditional behavior,
+12144,False,Empty diff,
+2591,False,Other,Replace literal value (numeric)
+10077,True,Other,Insert comments
+11202,False,Replace conditional operator (boundary),
+4668,False,Replace arithmetic operator,
+1972,False,Replace arithmetic operator,
+3990,False,Other,"Higher-order: Replace o.equals(other) with other.equals(o), Insert condition into logical expression"
+4161,True,Replace variable,
+4319,True,Replace conditional operator (boundary),
+7431,False,Replace arithmetic operator,
+11966,False,Empty diff,
+451,True,Other,"Higher-order: Replace declaration, initialization and  arithmetics split into multiple statements with single statement (2nd order)"
+8055,False,Higher-order: Insert conditional behavior,
+7074,False,Insert unary operator (numeric negation),
+12128,False,Delete statement (control flow),
+7609,False,Other,Insert comments
+2338,False,Other,Replace == with equals of method calls
+3695,False,Replace conditional operator (boundary),
+4602,False,Other,Replace literal value (null with empty string)
+11657,False,Replace literal value (boolean),
+11688,False,Insert literal (numeric),
+3522,False,Other,Replace literal value (numeric)
+8785,False,Other,Delete masking
+3607,False,Insert literal (numeric),
+10153,True,Replace method call with literal,
+3280,True,Other,Insert comments
+11276,False,Replace conditional operator (boundary),
+11321,False,Replace conditional operator (boundary),
+12008,True,Other,Higher-order: Replace conditional return of boolean literal with return of boolean expression
+10313,False,Delete terms from arithmetic expression,
+6886,True,Replace conditional operator (boundary),
+4745,True,Other,"Delete statement (type cast, higher order)"
+4696,False,Delete statement (method call),
+11263,False,Replace conditional operator (boundary),
+2237,True,Empty diff,
+4205,True,Delete statement (assignment),
+11596,False,Insert literal (numeric),
+4500,True,Other,"Higher-order: Insert condition into logical expression, Delete statement (control flow), Insert assignment"
+9977,True,Replace conditional operator (negation),
+6846,False,Replace literal value (boolean),
+8144,False,Other,Replace literal value (numeric)
+4304,False,Other,Replace literal value (string)
+376,False,Replace arithmetic operator,
+4317,True,Replace conditional operator (boundary),
+7902,False,Delete statement (method call),
+2519,False,Other,Replace method call with variable
+828,False,Replace conditional operator (boundary),
+12176,True,Other,Replace equals with ==
+11738,True,Replace variable (2nd order),
+870,False,Delete statement (assignment),
+4537,True,Other,Reorder terms in boolean expression (2nd order)
+8241,True,Delete statement (assignment),
+4929,False,Other,"Higher-order: Replace ternary operator with if-else, Replace variable"
+4842,False,Replace conditional operator (boundary),
+8291,False,Empty diff,
+3525,False,Empty diff,
+11333,False,Other,Insert condition into logical expression
+3583,False,Replace conditional operator (negation),
+3853,True,Replace conditional operator (boundary),
+8357,False,Insert literal (numeric),
+3711,False,Empty diff,
+3214,True,Delete statement (method call),
+12046,False,Delete statement (control flow),
+2446,False,Other,Replace method call with jump statement
+11372,True,Other,Replace method call with other method (2nd order)
+7525,False,Replace arithmetic operator (2nd order),
+12258,False,Higher-order: Delete conditional behavior,
+215,False,Replace arithmetic operator,
+12184,False,Delete statement (control flow),
+2702,False,Other,Insert comments
+4120,True,Other,Replace variable with method call
+6883,False,Replace conditional operator (negation),
+11151,False,Other,Delete condition from logical expression
+12169,False,Other,Delete unary operator (boolean negation)
+4005,False,Replace arithmetic operator,
+12527,False,Replace conditional operator (boundary),
+12024,False,Other,Higher-order: Insert increment; Insert conditional behavior
+8769,True,Other,"Higher-order: Replace arithmetic operator, Replace conditional operator (boundary), Replace variable with literal (numeric)"
+10132,True,Replace method call with literal,
+12020,False,Delete statement (control flow),
+841,False,Insert literal (numeric),
+12361,False,Replace arithmetic operator,
+10080,False,Other,"Higher-order: Replace for-while with for loop, Invert loop order"
+2489,False,Delete statement (method call),
+6955,True,Empty diff,
+834,False,Other,"Higher-order: Replace arithmetic operator, Replace conditional operator (negation)"
+12534,False,Replace variable,
+11224,False,Replace conditional operator (boundary),
+12180,False,Other,"Higher-order: Replace conditional operator (boundary), Delete terms from arithmetic expression"
+6753,True,Other,Replace pre-increment/decrement with post-increment/decrement (2nd order)
+7066,False,Replace arithmetic operator,
+11130,False,Other,Delete condition from logical expression
+7037,True,Replace method call with other method,
+4088,False,Replace conditional operator (boundary),
+6861,True,Other,Replace variable with method call
+11603,False,Delete statement (method call),
+4352,True,Replace conditional operator (boundary),
+6934,False,Replace conditional operator (boundary),
+12189,False,Empty diff,
+3129,False,Other,Insert unary operator (boolean negation)
+11651,True,Insert method call,
+11208,False,Replace conditional operator (boundary),
+7535,False,Replace conditional operator (boundary),
+4670,False,Replace conditional operator (boundary),
+3966,True,Other,"Higher-order: Replace pre-increment/decrement with post-increment/decrement, Replace conditional operator (boundary)"
+11298,False,Replace conditional operator (boundary),
+7060,False,Replace variable,
+2389,False,Insert literal (numeric),
+1990,False,Higher-order: Insert conditional behavior,
+4125,True,Other,Replace variable with method call
+2227,False,Other,Replace variable with null
+6505,False,Other,"Replace conditional operator (boundary, 2nd order)"
+2080,False,Other,"Higher-order: Insert type cast, Insert literal (numeric)"
+12012,False,Higher-order: Delete conditional behavior,
+4203,False,Replace conditional operator (negation),
+4081,True,Replace variable,
+5972,False,Replace conditional operator (negation),
+10012,False,Other,Delete unary operator (boolean negation)
+8710,False,Other,"Delete statement (assignment, 2nd order)"
+827,False,Replace conditional operator (boundary),
+819,False,Higher-order: Insert conditional behavior,
+6538,False,Other,"Higher-order: Replace literal with arithmetic expression, Insert method call"
+2605,False,Delete statement (method call),
+3407,False,Replace arithmetic operator,
+11986,False,Other,"Higher-order: Replace conditional operator (boundary), Delete terms from arithmetic expression"
+427,False,Other,"Higher-order: Replace artihmetic operator, Insert unary operator (numeric negation)"
+4517,False,Insert literal (numeric),
+8705,False,Other,Delete statement (shift)
+6967,True,Replace conditional operator (boundary),
+5973,False,Other,"Replace conditional operator (boundary, 2nd order)"
+1391,False,Other,Replace null with new Object
+8842,False,Insert term into arithmetic expression,
+1716,False,Replace arithmetic operator,
+4439,True,Replace conditional operator (negation),
+8104,True,Other,Higher-order: Insert assignment; Replace method call with variable (2nd order)
+3822,True,Other,"Higher-order: Replace pre-increment/decrement with post-increment/decrement, Replace conditional operator (boundary)"
+11320,False,Replace conditional operator (boundary),
+11890,False,Replace variable,
+4771,False,Other,"Higher-order: Replace method call with other method, Replace conditional operator (boundary)"
+11223,False,Replace conditional operator (boundary),
+5969,True,Other,Insert term into arithmetic expression
+11732,False,Replace method call with other method,
+3518,False,Replace conditional operator (boundary),
+4054,False,Replace arithmetic operator,
+11828,False,Replace variable (2nd order),
+1286,False,Empty diff,
+2238,False,Other,Replace literal value (numeric)
+12035,False,Empty diff,
+8218,False,Other,Replace pre-increment/decrement with post-increment/decrement
+10001,False,Other,Replace conditional operator (and/or)
+11291,False,Higher-order: Delete conditional behavior,
+11938,False,Insert literal (numeric),
+12283,False,Replace variable (2nd order),
+11407,False,Replace conditional operator (boundary),
+4445,True,Insert method call,
+842,False,Replace conditional operator (boundary),
+7191,False,Other,Replace type cast with method call
+12473,False,Replace conditional operator (boundary),
+12467,False,Empty diff,
+12427,False,Other,Delete statement (type cast)
+212,False,Replace conditional operator (negation),
+11162,False,Replace conditional operator (boundary),
+1063,False,Higher-order: Insert conditional behavior,
+7317,False,Other,Delete unary operator (numeric negation)
+3654,False,Insert literal (numeric),
+2505,False,Other,Replace literal value (numeric)
+12452,False,Other,Delete unary operator (numeric negation)
+12186,False,Insert literal (numeric),
+8764,False,Other,Replace masking
+11567,False,Other,Replace literal with boolean expression
+4175,False,Replace variable (2nd order),
+10129,False,Replace method call with other method,
+2919,False,Other,Replace literal value (numeric)
+12533,False,Other,Delete statement (type cast)
+3647,True,Replace variable (2nd order),
+187,False,Replace conditional operator (negation),
+12118,False,Other,"Higher-order: Replace conditional operator (boundary), delete terms from arithmetic expression"
+4266,True,Replace conditional operator (negation),
+6815,True,Other,Insert comments
+10045,False,Other,Replace literal value (string)
+5987,False,Other,"Replace literal value (numeric, 2nd order)"
+2316,False,Other,Replace == with equals of method calls
+8002,False,Replace method call with other method,
+5911,False,Insert literal (numeric),
+7178,False,Replace arithmetic operator,
+11192,False,Higher-order: Delete conditional behavior,
+4117,False,Other,"Replace conditional operator (boundary, 2nd order)"
+8719,False,Insert literal (numeric),
+1215,False,Delete terms from arithmetic expression,
+7055,False,Replace variable,
+4354,False,Other,Insert method call
+4504,False,Replace arithmetic operator,
+12195,False,Replace conditional operator (boundary),
+6719,False,Replace arithmetic operator,
+4136,False,Replace variable (2nd order),
+3722,True,Other,Replace variable with literal value (numeric)
+6547,False,Other,Replace variable with null
+3685,True,Other,Insert condition into logical expression
+6940,False,Other,Delete unary operator (numeric negation)
+12499,False,Other,"Delete statement (type cast, 2nd order)"
+835,False,Other,Insert term into arithmetic expression (2nd order)
+3618,True,Insert method call,
+2673,False,Insert bit shift,
+11950,False,Empty diff,
+3787,False,Other,Replace masking
+6553,False,Delete statement (method call),
+6798,False,Replace conditional operator (boundary),
+6700,False,Replace arithmetic operator,
+12342,False,Replace arithmetic operator,
+12156,False,Other,Replace literal value (numeric)
+8702,False,Insert literal (numeric),
+8592,False,Other,Higher-order: Revert loop order
+7004,True,Replace conditional operator (boundary),
+4713,False,Delete statement (method call),
+5388,False,Other,Replace masking
