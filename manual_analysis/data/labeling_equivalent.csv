@@ -28,7 +28,7 @@
 4745,equivalent,
 2237,equivalent,
 4205,equivalent,
-4500,uncertain,this should not even compile
+4500,non-equivalent,this should not even compile
 9977,non-equivalent,"see above, depends on charset?"
 4317,equivalent,
 12176,non-equivalent,
