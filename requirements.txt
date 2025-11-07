@@ -9,3 +9,8 @@ jupyter
 ipykernel
 ipywidgets
 seaborn
+scikit-learn
+markdown
+autorank
+scipy
+ghdiff
