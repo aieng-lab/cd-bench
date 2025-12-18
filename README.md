@@ -55,3 +55,11 @@ The experiments can be conducted by running `experiments/experiments.ipynb`.
 The experiments' logs can be extracted via `metrics/turns extraction.ipynb` and metrics computations are done for mutants and diagnostics with `metrics/mutants metrics.ipynb` and `metrics/diagnostic metrics.ipynb` respectively.
 
 The results of our run can be found in `metrics/data`.
+
+### Visualizations
+
+The visualizations can be reproduced by running `metrics/visualizations.ipynb`.
+
+### Manual Analysis
+
+The notebooks used for the manual annotations and analysis can be found in the `manual_analysis/` folder.
